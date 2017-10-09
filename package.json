@@ -11,9 +11,9 @@
     "url": "https://github.com/Rhendz/TWeather.git"
   },
   "devDependencies": {
-    "express" : "latest",
-    "request" : "latest",
-    "cheerio" : "latest"
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest"
   },
   "keywords": [
     "Tennessee",
