@@ -15,12 +15,6 @@ function initMap() {
   request.responseType = 'json';
   request.send();
 
-  var marker = new google.maps.Marker({
-    position: {lat: 35.845619, lng: -86.390266},
-    title: "Murfreesboro",
-    map: map
-  });
-
   request.onload = function() {
   	var weather = request.response;
     addMarkers(weather);
