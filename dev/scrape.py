@@ -18,7 +18,7 @@ filteredCities = list(filter(lambda x: ', Tennessee' in x and 'County' not in x,
 # Grabs latitude and longitude data for each city
 # Formats data into a dictionary with city name : {lat: , lng:}
 cityData = {}
-for x in filteredCities[]:
+for x in filteredCities:
     try:
         print("Searching latlngData for: " + x + ".")
         latlngTuple = wikipedia.WikipediaPage(title = x, pageid=None, redirect=True, preload=False).coordinates
