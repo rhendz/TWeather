@@ -6,15 +6,29 @@
 
 # Example: wikipedia.page(title="Adams, Tennessee", pageid=None, auto_suggest=True, redirect=True, preload=False).coordinates
 
+import decimal
+import json
 import wikipedia
 
 # Gets Place Name from https://en.wikipedia.org/wiki/List_of_municipalities_in_Tennessee
 cities = wikipedia.page(title='List_of_municipalities_in_Tennessee', pageid=None, auto_suggest=True, redirect=True, preload=False).links
 # Filters out links that are not cities
-filteredCities = filter(lambda x: ', Tennessee' in x and 'County' not in x, cities)
+filteredCities = list(filter(lambda x: ', Tennessee' in x and 'County' not in x, cities))
 
-for x in filteredCities:
-    print(x)
+# Grabs latitude and longitude data for each city
+# Formats data into a dictionary with city name : {lat: , lng:}
+cityData = {}
+for x in filteredCities[]:
+    try:
+        print("Searching latlngData for: " + x + ".")
+        latlngTuple = wikipedia.WikipediaPage(title = x, pageid=None, redirect=True, preload=False).coordinates
+        lng = str(round(latlngTuple[1], 7))
+        lat = str(round(latlngTuple[0], 7))
+        latlngData = dict(lng=lng, lat=lat)
+        cityData[x] = latlngData
+    except:
+        print("No latlngData found for: " + x + "!")
 
-# # Grabs latitude and longitude data for each city
-# latlngData = for x in filteredCities
+# Outputs formatted data to a JSON file
+with open('data.json', 'w') as f:
+    json.dump(cityData, f)
