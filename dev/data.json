@@ -1,33 +1,33 @@
 {
   "cities": [{
-    "cityName": "Adams, Tennessee",
     "coords": {
-      "lat": "36.5816890",
-      "lng": "-87.0651160"
-    }
+      "lat": 36.581689,
+      "lng": -87.065116
+    },
+    "cityName": "Adams, Tennessee"
   }, {
-    "cityName": "Adamsville, Tennessee",
     "coords": {
-      "lat": "35.2500000",
-      "lng": "-88.3902778"
-    }
+      "lat": 35.25,
+      "lng": -88.3902778
+    },
+    "cityName": "Adamsville, Tennessee"
   }, {
-    "cityName": "Alamo, Tennessee",
     "coords": {
-      "lat": "35.7841667",
-      "lng": "-89.1158333"
-    }
+      "lat": 35.7841667,
+      "lng": -89.1158333
+    },
+    "cityName": "Alamo, Tennessee"
   }, {
-    "cityName": "Alcoa, Tennessee",
     "coords": {
-      "lat": "35.8038500",
-      "lng": "-83.9775000"
-    }
+      "lat": 35.80385,
+      "lng": -83.9775
+    },
+    "cityName": "Alcoa, Tennessee"
   }, {
-    "cityName": "Alexandria, Tennessee",
     "coords": {
-      "lat": "36.0772140",
-      "lng": "-86.0334460"
-    }
+      "lat": 36.077214,
+      "lng": -86.033446
+    },
+    "cityName": "Alexandria, Tennessee"
   }]
 }
