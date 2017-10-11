@@ -19,39 +19,34 @@ function initMap() {
   // 	var weather = request.response;
   //   addMarkers(weather);
   // }
-  var data = $.getJSON("/dev/data.json");
-  // addMarkers(json);
 
-  // data = {
-  //   "0" : {
-  //     "cityName" : "Rockford, Tennessee",
-  //     "coords" : {
-  //       "lng": "-83.9422222",
-  //       "lat": "35.8391667"
-  //     }
-  //   },
-  //   "1" : {
-  //     "cityName" : "Apples, Tennessee",
-  //     "coords" : {
-  //       "lng": "-83.9422222",
-  //       "lat": "35.8391667"
-  //     }
-  //   }
-  // }
-  console.log(data[0].cityName);
-  console.log(data[1].cityName);
+  // Get JSON Data from OpenWeatherAPI for Tennessee.
+  var requestURL = 'https://raw.githubusercontent.com/Rhendz/TWeather/master/dev/data.json';
+  var request = new XMLHttpRequest();
+  request.open('GET', requestURL);
+
+  request.responseType = 'json';
+  request.send();
+
+  request.onload = function() {
+  	var json = request.response;
+    addMarkers(json);
+  }
 }
 
-// function addMarkers(jsonObj) {
-//   var weather = jsonObj;
-//   // Adds a city name for each city position
-//   for (var i = 0; i < weather.length; i++) {
-//     var cityName = weather[i];
-//     var marker = new google.maps.Marker({
-//       position: {lat: cityName.lat, lng: cityName.lng},
-//       title: cityName,
-//       map: map
-//     });
-//     console.log("Marker for " + cityName + " has been added!");
-//   }
-// }
+function addMarkers(jsonObj) {
+  // Adds a city name for each city position
+  for (var i = 0; i < jsonObj.cities.length; i++) {
+    var cityName = jsonObj.cities[i].cityName;
+
+    var coords = jsonObj.cities[i].coords;
+    var latlng = new google.maps.LatLng(coords.lat, coords.lng);
+
+    var marker = new google.maps.Marker({
+      position: latlng,
+      title: cityName,
+      map: map
+    });
+    console.log("Marker for " + cityName + " has been added!");
+  }
+}
