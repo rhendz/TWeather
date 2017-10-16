@@ -5,6 +5,7 @@ var map;
 var latlng = {lat: 35.5046, lng: -86.2331};
 var zoom = 7;
 var mapTypeId = 'hybrid';
+var API_CALL_LIMIT = 60;
 
 function initMap() {
   map = new google.maps.Map(document.getElementById('map'), {
@@ -16,14 +17,17 @@ function initMap() {
   // Get JSON Data from scraped web data on github for Tennessee.
   var requestDataURL = 'https://raw.githubusercontent.com/Rhendz/TWeather/master/data/use_this_data.json';
   var cityData = {};
-  getJSONData(requestDataURL, function(data) { cityData = data });
-
-  // Get JSON Data from OpenWeatherAPI for Tennessee.
-  var requestWeatherURL = 'http://api.openweathermap.org/data/2.5/box/city?bbox=-90.208740,35.003003,-81.661377,36.641978,10&APPID=f9a99216f25450f101c2194df8e56eb0';
   var weatherData = {};
-  getJSONData(requestWeatherURL, function(data) { weatherData = data });
+  getJSONData(requestDataURL, function(data) {
+    cityData = data;
 
-  // addMarkers()
+    // Get JSON Data from OpenWeatherAPI for Tennessee.
+    var requestWeatherURL = 'http://api.openweathermap.org/data/2.5/&APPID=f9a99216f25450f101c2194df8e56eb0';
+    getJSONData(requestWeatherURL, function(data) {
+      weatherData = data;
+      // Need to add population based weather calling because of API_CALL_LIMIT / zooming
+    });
+  });
 
 }
 
@@ -54,7 +58,7 @@ function getJSONData(requestURL, fCallback) {
   });
 }
 
-function addMarkers(jsonObj) {
+function addMarker(jsonObj) {
   // Adds a city name for each city position
   for (var i = 0; i < jsonObj.cities.length; i++) {
     var cityName = jsonObj.cities[i].cityName;
