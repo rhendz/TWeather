@@ -44,7 +44,7 @@ def main():
             latExp = re.findall(r'\d{0,2}[0-9-NESW]', lat)
             lat = format(dms_to_dd(*latExp), '.7f')
             lngExp = re.findall(r'\d{0,2}[0-9-NESW]', lng)
-            lng = format(dms_to_dd(*latExp), '.7f')
+            lng = format(dms_to_dd(*lngExp), '.7f')
 
             latlngDict = {'lat': lat, 'lng': lng}
 

@@ -1,2375 +1,2375 @@
 {
-  "Loudon": {
-    "coords": {
-      "lng": "35.7338889",
-      "lat": "35.7338889"
-    },
-    "population": "381"
-  },
-  "Saltillo": {
-    "coords": {
-      "lng": "35.3805556",
-      "lat": "35.3805556"
-    },
-    "population": "303"
-  },
-  "Munford": {
-    "coords": {
-      "lng": "35.4447222",
-      "lat": "35.4447222"
-    },
-    "population": "927"
-  },
-  "Rockford": {
-    "coords": {
-      "lng": "35.8391667",
-      "lat": "35.8391667"
-    },
-    "population": "856"
-  },
-  "Jellico": {
-    "coords": {
-      "lng": "36.5825000",
-      "lat": "36.5825000"
-    },
-    "population": "355"
-  },
-  "Alamo": {
-    "coords": {
-      "lng": "35.7841667",
-      "lat": "35.7841667"
-    },
-    "population": "461"
-  },
-  "Savannah": {
-    "coords": {
-      "lng": "35.2236111",
-      "lat": "35.2236111"
-    },
-    "population": "982"
-  },
-  "Harrogate": {
-    "coords": {
-      "lng": "36.5822222",
-      "lat": "36.5822222"
-    },
-    "population": "389"
-  },
-  "Cedar Hill": {
-    "coords": {
-      "lng": "36.5519444",
-      "lat": "36.5519444"
-    },
-    "population": "314"
-  },
-  "Cumberland Gap": {
-    "coords": {
-      "lng": "36.5988889",
-      "lat": "36.5988889"
-    },
-    "population": "494"
-  },
-  "Kenton": {
-    "coords": {
-      "lng": "36.2019444",
-      "lat": "36.2019444"
-    },
-    "population": "281"
-  },
-  "Bradford": {
-    "coords": {
-      "lng": "36.0758333",
-      "lat": "36.0758333"
-    },
-    "population": "048"
-  },
-  "Brentwood": {
-    "coords": {
-      "lng": "35.9980556",
-      "lat": "35.9980556"
-    },
-    "population": "37060"
-  },
-  "Decherd": {
-    "coords": {
-      "lng": "35.2158333",
-      "lat": "35.2158333"
-    },
-    "population": "361"
-  },
-  "Vanleer": {
-    "coords": {
-      "lng": "36.2375000",
-      "lat": "36.2375000"
-    },
-    "population": "395"
-  },
   "East Ridge": {
+    "population": "20979",
     "coords": {
-      "lng": "34.9966667",
+      "lng": "-85.2375000",
       "lat": "34.9966667"
-    },
-    "population": "20979"
-  },
-  "Lynchburg": {
-    "coords": {
-      "lng": "35.2841667",
-      "lat": "35.2841667"
-    },
-    "population": "362"
-  },
-  "Morristown": {
-    "coords": {
-      "lng": "36.2105556",
-      "lat": "36.2105556"
-    },
-    "population": "29137"
-  },
-  "Viola": {
-    "coords": {
-      "lng": "35.5380556",
-      "lat": "35.5380556"
-    },
-    "population": "131"
-  },
-  "Ridgely": {
-    "coords": {
-      "lng": "36.2644444",
-      "lat": "36.2644444"
-    },
-    "population": "795"
-  },
-  "Copperhill": {
-    "coords": {
-      "lng": "34.9922222",
-      "lat": "34.9922222"
-    },
-    "population": "354"
-  },
-  "Selmer": {
-    "coords": {
-      "lng": "35.1722222",
-      "lat": "35.1722222"
-    },
-    "population": "396"
-  },
-  "Henning": {
-    "coords": {
-      "lng": "35.6736111",
-      "lat": "35.6736111"
-    },
-    "population": "945"
-  },
-  "Clinton": {
-    "coords": {
-      "lng": "36.1047222",
-      "lat": "36.1047222"
-    },
-    "population": "841"
-  },
-  "Tracy City": {
-    "coords": {
-      "lng": "35.2608333",
-      "lat": "35.2608333"
-    },
-    "population": "481"
-  },
-  "Soddy-Daisy": {
-    "coords": {
-      "lng": "35.2586111",
-      "lat": "35.2586111"
-    },
-    "population": "12714"
-  },
-  "Eagleville": {
-    "coords": {
-      "lng": "35.7411111",
-      "lat": "35.7411111"
-    },
-    "population": "604"
-  },
-  "Baileyton": {
-    "coords": {
-      "lng": "36.3280556",
-      "lat": "36.3280556"
-    },
-    "population": "431"
-  },
-  "Baneberry": {
-    "coords": {
-      "lng": "36.0458333",
-      "lat": "36.0458333"
-    },
-    "population": "482"
-  },
-  "Waynesboro": {
-    "coords": {
-      "lng": "35.3205556",
-      "lat": "35.3205556"
-    },
-    "population": "449"
-  },
-  "Thompson's Station": {
-    "coords": {
-      "lng": "35.7986111",
-      "lat": "35.7986111"
-    },
-    "population": "194"
-  },
-  "Powells Crossroads": {
-    "coords": {
-      "lng": "35.1836111",
-      "lat": "35.1836111"
-    },
-    "population": "322"
-  },
-  "Erin": {
-    "coords": {
-      "lng": "36.3169444",
-      "lat": "36.3169444"
-    },
-    "population": "324"
-  },
-  "La Vergne": {
-    "coords": {
-      "lng": "36.0133333",
-      "lat": "36.0133333"
-    },
-    "population": "32588"
-  },
-  "Friendsville": {
-    "coords": {
-      "lng": "35.7558333",
-      "lat": "35.7558333"
-    },
-    "population": "913"
-  },
-  "Winfield": {
-    "coords": {
-      "lng": "36.5619444",
-      "lat": "36.5619444"
-    },
-    "population": "967"
-  },
-  "Trimble": {
-    "coords": {
-      "lng": "36.2022222",
-      "lat": "36.2022222"
-    },
-    "population": "637"
-  },
-  "Norris": {
-    "coords": {
-      "lng": "36.1994444",
-      "lat": "36.1994444"
-    },
-    "population": "491"
-  },
-  "Greenback": {
-    "coords": {
-      "lng": "35.6558333",
-      "lat": "35.6558333"
-    },
-    "population": "064"
-  },
-  "Byrdstown": {
-    "coords": {
-      "lng": "36.5725000",
-      "lat": "36.5725000"
-    },
-    "population": "803"
-  },
-  "Hohenwald": {
-    "coords": {
-      "lng": "35.5472222",
-      "lat": "35.5472222"
-    },
-    "population": "757"
-  },
-  "Baxter": {
-    "coords": {
-      "lng": "36.1550000",
-      "lat": "36.1550000"
-    },
-    "population": "365"
-  },
-  "Cross Plains": {
-    "coords": {
-      "lng": "36.5450000",
-      "lat": "36.5450000"
-    },
-    "population": "714"
-  },
-  "Rutledge": {
-    "coords": {
-      "lng": "36.2800000",
-      "lat": "36.2800000"
-    },
-    "population": "122"
-  },
-  "Rives": {
-    "coords": {
-      "lng": "36.3572222",
-      "lat": "36.3572222"
-    },
-    "population": "326"
-  },
-  "Pleasant Hill": {
-    "coords": {
-      "lng": "35.9769444",
-      "lat": "35.9769444"
-    },
-    "population": "563"
-  },
-  "Graysville": {
-    "coords": {
-      "lng": "35.4477778",
-      "lat": "35.4477778"
-    },
-    "population": "502"
-  },
-  "Arlington": {
-    "coords": {
-      "lng": "35.2777778",
-      "lat": "35.2777778"
-    },
-    "population": "11517"
-  },
-  "Dickson": {
-    "coords": {
-      "lng": "36.0713889",
-      "lat": "36.0713889"
-    },
-    "population": "14538"
-  },
-  "Farragut": {
-    "coords": {
-      "lng": "35.8775000",
-      "lat": "35.8775000"
-    },
-    "population": "20676"
-  },
-  "Gordonsville": {
-    "coords": {
-      "lng": "36.1772222",
-      "lat": "36.1772222"
-    },
-    "population": "213"
-  },
-  "Grand Junction": {
-    "coords": {
-      "lng": "35.0480556",
-      "lat": "35.0480556"
-    },
-    "population": "325"
-  },
-  "Shelbyville": {
-    "coords": {
-      "lng": "35.4888889",
-      "lat": "35.4888889"
-    },
-    "population": "20335"
-  },
-  "Cleveland": {
-    "coords": {
-      "lng": "35.1713889",
-      "lat": "35.1713889"
-    },
-    "population": "41285"
-  },
-  "White House": {
-    "coords": {
-      "lng": "36.4652778",
-      "lat": "36.4652778"
-    },
-    "population": "10255"
-  },
-  "Collinwood": {
-    "coords": {
-      "lng": "35.1702778",
-      "lat": "35.1702778"
-    },
-    "population": "982"
-  },
-  "Fairview": {
-    "coords": {
-      "lng": "35.9819444",
-      "lat": "35.9819444"
-    },
-    "population": "720"
-  },
-  "Rutherford": {
-    "coords": {
-      "lng": "36.1255556",
-      "lat": "36.1255556"
-    },
-    "population": "151"
-  },
-  "Parsons": {
-    "coords": {
-      "lng": "35.6488889",
-      "lat": "35.6488889"
-    },
-    "population": "373"
-  },
-  "Milan": {
-    "coords": {
-      "lng": "35.9158333",
-      "lat": "35.9158333"
-    },
-    "population": "851"
-  },
-  "White Bluff": {
-    "coords": {
-      "lng": "36.1080556",
-      "lat": "36.1080556"
-    },
-    "population": "206"
-  },
-  "Winchester": {
-    "coords": {
-      "lng": "35.1883333",
-      "lat": "35.1883333"
-    },
-    "population": "530"
-  },
-  "Red Bank": {
-    "coords": {
-      "lng": "35.1102778",
-      "lat": "35.1102778"
-    },
-    "population": "11651"
-  },
-  "Newport": {
-    "coords": {
-      "lng": "35.9633333",
-      "lat": "35.9633333"
-    },
-    "population": "945"
-  },
-  "Medina": {
-    "coords": {
-      "lng": "35.8052778",
-      "lat": "35.8052778"
-    },
-    "population": "479"
-  },
-  "Mount Juliet": {
-    "coords": {
-      "lng": "36.2027778",
-      "lat": "36.2027778"
-    },
-    "population": "23671"
-  },
-  "Atoka": {
-    "coords": {
-      "lng": "35.4247222",
-      "lat": "35.4247222"
-    },
-    "population": "387"
-  },
-  "Ducktown": {
-    "coords": {
-      "lng": "35.0341667",
-      "lat": "35.0341667"
-    },
-    "population": "475"
-  },
-  "Springfield": {
-    "coords": {
-      "lng": "36.4994444",
-      "lat": "36.4994444"
-    },
-    "population": "16440"
-  },
-  "Big Sandy": {
-    "coords": {
-      "lng": "36.2341667",
-      "lat": "36.2341667"
-    },
-    "population": "557"
-  },
-  "Carthage": {
-    "coords": {
-      "lng": "36.2550000",
-      "lat": "36.2550000"
-    },
-    "population": "306"
-  },
-  "Greenbrier": {
-    "coords": {
-      "lng": "36.4280556",
-      "lat": "36.4280556"
-    },
-    "population": "433"
-  },
-  "Allardt": {
-    "coords": {
-      "lng": "36.3855556",
-      "lat": "36.3855556"
-    },
-    "population": "634"
-  },
-  "Hollow Rock": {
-    "coords": {
-      "lng": "36.0355556",
-      "lat": "36.0355556"
-    },
-    "population": "718"
-  },
-  "Medon": {
-    "coords": {
-      "lng": "35.4586111",
-      "lat": "35.4586111"
-    },
-    "population": "178"
-  },
-  "Sparta": {
-    "coords": {
-      "lng": "35.9322222",
-      "lat": "35.9322222"
-    },
-    "population": "925"
-  },
-  "Toone": {
-    "coords": {
-      "lng": "35.3522222",
-      "lat": "35.3522222"
-    },
-    "population": "364"
-  },
-  "Moscow": {
-    "coords": {
-      "lng": "35.0611111",
-      "lat": "35.0611111"
-    },
-    "population": "556"
-  },
-  "New Market": {
-    "coords": {
-      "lng": "36.1016667",
-      "lat": "36.1016667"
-    },
-    "population": "334"
-  },
-  "Huntsville": {
-    "coords": {
-      "lng": "36.4108333",
-      "lat": "36.4108333"
-    },
-    "population": "248"
-  },
-  "South Pittsburg": {
-    "coords": {
-      "lng": "35.0083333",
-      "lat": "35.0083333"
-    },
-    "population": "992"
-  },
-  "Huntingdon": {
-    "coords": {
-      "lng": "36.0072222",
-      "lat": "36.0072222"
-    },
-    "population": "985"
-  },
-  "Jacksboro": {
-    "coords": {
-      "lng": "36.3313889",
-      "lat": "36.3313889"
-    },
-    "population": "020"
-  },
-  "Samburg": {
-    "coords": {
-      "lng": "36.3800000",
-      "lat": "36.3800000"
-    },
-    "population": "217"
-  },
-  "Celina": {
-    "coords": {
-      "lng": "36.5483333",
-      "lat": "36.5483333"
-    },
-    "population": "495"
-  },
-  "Oneida": {
-    "coords": {
-      "lng": "36.5005556",
-      "lat": "36.5005556"
-    },
-    "population": "752"
-  },
-  "Bluff City": {
-    "coords": {
-      "lng": "36.4633333",
-      "lat": "36.4633333"
-    },
-    "population": "733"
-  },
-  "Nolensville": {
-    "coords": {
-      "lng": "35.9566667",
-      "lat": "35.9566667"
-    },
-    "population": "861"
-  },
-  "Belle Meade": {
-    "coords": {
-      "lng": "36.1055556",
-      "lat": "36.1055556"
-    },
-    "population": "912"
-  },
-  "Adamsville": {
-    "coords": {
-      "lng": "35.2500000",
-      "lat": "35.2500000"
-    },
-    "population": "207"
-  },
-  "Saint Joseph": {
-    "coords": {
-      "lng": "35.0350000",
-      "lat": "35.0350000"
-    },
-    "population": "782"
-  },
-  "Camden": {
-    "coords": {
-      "lng": "36.0463889",
-      "lat": "36.0463889"
-    },
-    "population": "582"
-  },
-  "Humboldt": {
-    "coords": {
-      "lng": "35.8225000",
-      "lat": "35.8225000"
-    },
-    "population": "452"
-  },
-  "Sardis": {
-    "coords": {
-      "lng": "35.4427778",
-      "lat": "35.4427778"
-    },
-    "population": "381"
-  },
-  "Walden": {
-    "coords": {
-      "lng": "35.1611111",
-      "lat": "35.1611111"
-    },
-    "population": "898"
-  },
-  "Englewood": {
-    "coords": {
-      "lng": "35.4263889",
-      "lat": "35.4263889"
-    },
-    "population": "532"
-  },
-  "Jonesborough": {
-    "coords": {
-      "lng": "36.2941667",
-      "lat": "36.2941667"
-    },
-    "population": "051"
-  },
-  "New Tazewell": {
-    "coords": {
-      "lng": "36.4377778",
-      "lat": "36.4377778"
-    },
-    "population": "037"
-  },
-  "Cookeville": {
-    "coords": {
-      "lng": "36.1641667",
-      "lat": "36.1641667"
-    },
-    "population": "30435"
-  },
-  "Dover": {
-    "coords": {
-      "lng": "36.4822222",
-      "lat": "36.4822222"
-    },
-    "population": "417"
-  },
-  "La Grange": {
-    "coords": {
-      "lng": "35.0455556",
-      "lat": "35.0455556"
-    },
-    "population": "133"
-  },
-  "Crump": {
-    "coords": {
-      "lng": "35.2325000",
-      "lat": "35.2325000"
-    },
-    "population": "428"
-  },
-  "Smyrna": {
-    "coords": {
-      "lng": "35.9794444",
-      "lat": "35.9794444"
-    },
-    "population": "39974"
-  },
-  "Gilt Edge": {
-    "coords": {
-      "lng": "35.5336111",
-      "lat": "35.5336111"
-    },
-    "population": "477"
-  },
-  "Normandy": {
-    "coords": {
-      "lng": "35.4522222",
-      "lat": "35.4522222"
-    },
-    "population": "141"
-  },
-  "Stanton": {
-    "coords": {
-      "lng": "35.4625000",
-      "lat": "35.4625000"
-    },
-    "population": "452"
-  },
-  "Dowelltown": {
-    "coords": {
-      "lng": "36.0130556",
-      "lat": "36.0130556"
-    },
-    "population": "355"
-  },
-  "Doyle": {
-    "coords": {
-      "lng": "35.8536111",
-      "lat": "35.8536111"
-    },
-    "population": "537"
-  },
-  "Crab Orchard": {
-    "coords": {
-      "lng": "35.9058333",
-      "lat": "35.9058333"
-    },
-    "population": "752"
-  },
-  "Kingston Springs": {
-    "coords": {
-      "lng": "36.0872222",
-      "lat": "36.0872222"
-    },
-    "population": "756"
-  },
-  "White Pine": {
-    "coords": {
-      "lng": "36.1086111",
-      "lat": "36.1086111"
-    },
-    "population": "196"
-  },
-  "Vonore": {
-    "coords": {
-      "lng": "35.5994444",
-      "lat": "35.5994444"
-    },
-    "population": "474"
-  },
-  "Burns": {
-    "coords": {
-      "lng": "36.0541667",
-      "lat": "36.0541667"
-    },
-    "population": "468"
-  },
-  "Pleasant View": {
-    "coords": {
-      "lng": "36.3902778",
-      "lat": "36.3902778"
-    },
-    "population": "149"
-  },
-  "Greenfield": {
-    "coords": {
-      "lng": "36.1569444",
-      "lat": "36.1569444"
-    },
-    "population": "182"
-  },
-  "Whitwell": {
-    "coords": {
-      "lng": "35.1975000",
-      "lat": "35.1975000"
-    },
-    "population": "699"
-  },
-  "Watertown": {
-    "coords": {
-      "lng": "36.1000000",
-      "lat": "36.1000000"
-    },
-    "population": "477"
-  },
-  "Bell Buckle": {
-    "coords": {
-      "lng": "35.5908333",
-      "lat": "35.5908333"
-    },
-    "population": "500"
-  },
-  "New Hope": {
-    "coords": {
-      "lng": "35.0000000",
-      "lat": "35.0000000"
-    },
-    "population": "082"
-  },
-  "Lawrenceburg": {
-    "coords": {
-      "lng": "35.2436111",
-      "lat": "35.2436111"
-    },
-    "population": "10428"
-  },
-  "Union City": {
-    "coords": {
-      "lng": "36.4244444",
-      "lat": "36.4244444"
-    },
-    "population": "10895"
-  },
-  "Lynnville": {
-    "coords": {
-      "lng": "35.3772222",
-      "lat": "35.3772222"
-    },
-    "population": "287"
-  },
-  "Greeneville": {
-    "coords": {
-      "lng": "36.1683333",
-      "lat": "36.1683333"
-    },
-    "population": "15062"
-  },
-  "Blountville": {
-    "coords": {
-      "lng": "36.5333333",
-      "lat": "36.5333333"
-    },
-    "population": "074"
-  },
-  "Plainview": {
-    "coords": {
-      "lng": "36.1763889",
-      "lat": "36.1763889"
-    },
-    "population": "125"
-  },
-  "Spring Hill": {
-    "coords": {
-      "lng": "35.7525000",
-      "lat": "35.7525000"
-    },
-    "population": "29036"
-  },
-  "Spencer": {
-    "coords": {
-      "lng": "35.7436111",
-      "lat": "35.7436111"
-    },
-    "population": "601"
-  },
-  "Tazewell": {
-    "coords": {
-      "lng": "36.4544444",
-      "lat": "36.4544444"
-    },
-    "population": "218"
-  },
-  "Lebanon": {
-    "coords": {
-      "lng": "36.2080556",
-      "lat": "36.2080556"
-    },
-    "population": "26190"
-  },
-  "Berry Hill": {
-    "coords": {
-      "lng": "36.1191667",
-      "lat": "36.1191667"
-    },
-    "population": "537"
-  },
-  "Monteagle": {
-    "coords": {
-      "lng": "35.2400000",
-      "lat": "35.2400000"
-    },
-    "population": "192"
-  },
-  "Milledgeville": {
-    "coords": {
-      "lng": "35.3772222",
-      "lat": "35.3772222"
-    },
-    "population": "265"
-  },
-  "Oliver Springs": {
-    "coords": {
-      "lng": "36.0380556",
-      "lat": "36.0380556"
-    },
-    "population": "231"
-  },
-  "Tusculum": {
-    "coords": {
-      "lng": "36.1758333",
-      "lat": "36.1758333"
-    },
-    "population": "663"
-  },
-  "Decatur": {
-    "coords": {
-      "lng": "35.5188889",
-      "lat": "35.5188889"
-    },
-    "population": "598"
-  },
-  "Rocky Top": {
-    "coords": {
-      "lng": "36.2241667",
-      "lat": "36.2241667"
-    },
-    "population": "781"
-  },
-  "Hartsville": {
-    "coords": {
-      "lng": "36.3916667",
-      "lat": "36.3916667"
-    },
-    "population": "395"
-  },
-  "Decaturville": {
-    "coords": {
-      "lng": "35.5830556",
-      "lat": "35.5830556"
-    },
-    "population": "867"
-  },
-  "Dandridge": {
-    "coords": {
-      "lng": "36.0286111",
-      "lat": "36.0286111"
-    },
-    "population": "812"
-  },
-  "Dyer": {
-    "coords": {
-      "lng": "36.0691667",
-      "lat": "36.0691667"
-    },
-    "population": "341"
-  },
-  "Surgoinsville": {
-    "coords": {
-      "lng": "36.4741667",
-      "lat": "36.4741667"
-    },
-    "population": "801"
-  },
-  "McMinnville": {
-    "coords": {
-      "lng": "35.6866667",
-      "lat": "35.6866667"
-    },
-    "population": "13605"
-  },
-  "Millington": {
-    "coords": {
-      "lng": "35.3366667",
-      "lat": "35.3366667"
-    },
-    "population": "10176"
-  },
-  "Tullahoma": {
-    "coords": {
-      "lng": "35.3686111",
-      "lat": "35.3686111"
-    },
-    "population": "18655"
-  },
-  "Slayden": {
-    "coords": {
-      "lng": "36.2941667",
-      "lat": "36.2941667"
-    },
-    "population": "178"
-  },
-  "Goodlettsville": {
-    "coords": {
-      "lng": "36.3269444",
-      "lat": "36.3269444"
-    },
-    "population": "15921"
-  },
-  "Collierville": {
-    "coords": {
-      "lng": "35.0544444",
-      "lat": "35.0544444"
-    },
-    "population": "43965"
-  },
-  "Charleston": {
-    "coords": {
-      "lng": "35.2844444",
-      "lat": "35.2844444"
-    },
-    "population": "651"
-  },
-  "Williston": {
-    "coords": {
-      "lng": "35.1588889",
-      "lat": "35.1588889"
-    },
-    "population": "395"
-  },
-  "Palmer": {
-    "coords": {
-      "lng": "35.3563889",
-      "lat": "35.3563889"
-    },
-    "population": "672"
-  },
-  "Covington": {
-    "coords": {
-      "lng": "35.5641667",
-      "lat": "35.5641667"
-    },
-    "population": "038"
-  },
-  "Collegedale": {
-    "coords": {
-      "lng": "35.0516667",
-      "lat": "35.0516667"
-    },
-    "population": "282"
-  },
-  "Tennessee Ridge": {
-    "coords": {
-      "lng": "36.3208333",
-      "lat": "36.3208333"
-    },
-    "population": "368"
-  },
-  "Mason": {
-    "coords": {
-      "lng": "35.4102778",
-      "lat": "35.4102778"
-    },
-    "population": "609"
-  },
-  "Elkton": {
-    "coords": {
-      "lng": "35.0627778",
-      "lat": "35.0627778"
-    },
-    "population": "578"
-  },
-  "Gruetli-Laager": {
-    "coords": {
-      "lng": "35.3730556",
-      "lat": "35.3730556"
-    },
-    "population": "813"
-  },
-  "Oakdale": {
-    "coords": {
-      "lng": "35.9850000",
-      "lat": "35.9850000"
-    },
-    "population": "212"
-  },
-  "Bruceton": {
-    "coords": {
-      "lng": "36.0372222",
-      "lat": "36.0372222"
-    },
-    "population": "478"
-  },
-  "Parkers Crossroads": {
-    "coords": {
-      "lng": "35.7816667",
-      "lat": "35.7816667"
-    },
-    "population": "330"
-  },
-  "Lakeland": {
-    "coords": {
-      "lng": "35.2305556",
-      "lat": "35.2305556"
-    },
-    "population": "12430"
-  },
-  "Ridgeside": {
-    "coords": {
-      "lng": "35.0350000",
-      "lat": "35.0350000"
-    },
-    "population": "390"
-  },
-  "South Carthage": {
-    "coords": {
-      "lng": "36.2455556",
-      "lat": "36.2455556"
-    },
-    "population": "322"
-  },
-  "Newbern": {
-    "coords": {
-      "lng": "36.1163889",
-      "lat": "36.1163889"
-    },
-    "population": "313"
-  },
-  "Crossville": {
-    "coords": {
-      "lng": "35.9541667",
-      "lat": "35.9541667"
-    },
-    "population": "10795"
-  },
-  "Henderson": {
-    "coords": {
-      "lng": "35.4430556",
-      "lat": "35.4430556"
-    },
-    "population": "309"
-  },
-  "Sneedville": {
-    "coords": {
-      "lng": "36.5319444",
-      "lat": "36.5319444"
-    },
-    "population": "387"
-  },
-  "Gates": {
-    "coords": {
-      "lng": "35.8391667",
-      "lat": "35.8391667"
-    },
-    "population": "647"
-  },
-  "McEwen": {
-    "coords": {
-      "lng": "36.1088889",
-      "lat": "36.1088889"
-    },
-    "population": "750"
-  },
-  "Oak Ridge": {
-    "coords": {
-      "lng": "36.0133333",
-      "lat": "36.0133333"
-    },
-    "population": "29330"
-  },
-  "Lexington": {
-    "coords": {
-      "lng": "35.6572222",
-      "lat": "35.6572222"
-    },
-    "population": "652"
-  },
-  "Jefferson City": {
-    "coords": {
-      "lng": "36.1163889",
-      "lat": "36.1163889"
-    },
-    "population": "047"
-  },
-  "Yorkville": {
-    "coords": {
-      "lng": "36.0986111",
-      "lat": "36.0986111"
-    },
-    "population": "286"
-  },
-  "Enville": {
-    "coords": {
-      "lng": "35.3880556",
-      "lat": "35.3880556"
-    },
-    "population": "189"
-  },
-  "Silerton": {
-    "coords": {
-      "lng": "35.3400000",
-      "lat": "35.3400000"
-    },
-    "population": "111"
-  },
-  "Hornsby": {
-    "coords": {
-      "lng": "35.2266667",
-      "lat": "35.2266667"
-    },
-    "population": "303"
-  },
-  "Gadsden": {
-    "coords": {
-      "lng": "35.7772222",
-      "lat": "35.7772222"
-    },
-    "population": "470"
-  },
-  "Guys": {
-    "coords": {
-      "lng": "35.0230556",
-      "lat": "35.0230556"
-    },
-    "population": "466"
-  },
-  "Brownsville": {
-    "coords": {
-      "lng": "35.5905556",
-      "lat": "35.5905556"
-    },
-    "population": "10292"
-  },
-  "Spring City": {
-    "coords": {
-      "lng": "35.6894444",
-      "lat": "35.6894444"
-    },
-    "population": "981"
-  },
-  "Germantown": {
-    "coords": {
-      "lng": "35.0888889",
-      "lat": "35.0888889"
-    },
-    "population": "38844"
-  },
-  "Maynardville": {
-    "coords": {
-      "lng": "36.2458333",
-      "lat": "36.2458333"
-    },
-    "population": "413"
-  },
-  "Troy": {
-    "coords": {
-      "lng": "36.3408333",
-      "lat": "36.3408333"
-    },
-    "population": "371"
-  },
-  "Algood": {
-    "coords": {
-      "lng": "36.1975000",
-      "lat": "36.1975000"
-    },
-    "population": "495"
-  },
-  "Adams": {
-    "coords": {
-      "lng": "36.5816667",
-      "lat": "36.5816667"
-    },
-    "population": "633"
-  },
-  "Woodbury": {
-    "coords": {
-      "lng": "35.8236111",
-      "lat": "35.8236111"
-    },
-    "population": "680"
-  },
-  "Pulaski": {
-    "coords": {
-      "lng": "35.1958333",
-      "lat": "35.1958333"
-    },
-    "population": "870"
-  },
-  "Bells": {
-    "coords": {
-      "lng": "35.7183333",
-      "lat": "35.7183333"
-    },
-    "population": "437"
-  },
-  "Piperton": {
-    "coords": {
-      "lng": "35.0450000",
-      "lat": "35.0450000"
-    },
-    "population": "445"
-  },
-  "Benton": {
-    "coords": {
-      "lng": "35.1730556",
-      "lat": "35.1730556"
-    },
-    "population": "385"
-  },
-  "Louisville": {
-    "coords": {
-      "lng": "35.8236111",
-      "lat": "35.8236111"
-    },
-    "population": "439"
+    }
   },
   "Mount Pleasant": {
+    "population": "561",
     "coords": {
-      "lng": "35.5450000",
+      "lng": "-87.1986111",
       "lat": "35.5450000"
-    },
-    "population": "561"
+    }
   },
-  "Saulsbury": {
+  "Cookeville": {
+    "population": "30435",
     "coords": {
-      "lng": "35.0491667",
-      "lat": "35.0491667"
-    },
-    "population": "81"
-  },
-  "Henry": {
-    "coords": {
-      "lng": "36.2022222",
-      "lat": "36.2022222"
-    },
-    "population": "464"
-  },
-  "Unicoi": {
-    "coords": {
-      "lng": "36.2200000",
-      "lat": "36.2200000"
-    },
-    "population": "632"
-  },
-  "Bartlett": {
-    "coords": {
-      "lng": "35.2230556",
-      "lat": "35.2230556"
-    },
-    "population": "54613"
-  },
-  "Lewisburg": {
-    "coords": {
-      "lng": "35.4491667",
-      "lat": "35.4491667"
-    },
-    "population": "11100"
-  },
-  "Maryville": {
-    "coords": {
-      "lng": "35.7497222",
-      "lat": "35.7497222"
-    },
-    "population": "27465"
-  },
-  "Dunlap": {
-    "coords": {
-      "lng": "35.3772222",
-      "lat": "35.3772222"
-    },
-    "population": "815"
-  },
-  "Caryville": {
-    "coords": {
-      "lng": "36.3200000",
-      "lat": "36.3200000"
-    },
-    "population": "297"
-  },
-  "Petersburg": {
-    "coords": {
-      "lng": "35.3186111",
-      "lat": "35.3186111"
-    },
-    "population": "544"
-  },
-  "Halls": {
-    "coords": {
-      "lng": "35.8755556",
-      "lat": "35.8755556"
-    },
-    "population": "255"
-  },
-  "Mount Carmel": {
-    "coords": {
-      "lng": "36.5655556",
-      "lat": "36.5655556"
-    },
-    "population": "429"
-  },
-  "Elizabethton": {
-    "coords": {
-      "lng": "36.3363889",
-      "lat": "36.3363889"
-    },
-    "population": "14176"
-  },
-  "Gallaway": {
-    "coords": {
-      "lng": "35.3266667",
-      "lat": "35.3266667"
-    },
-    "population": "680"
-  },
-  "Athens": {
-    "coords": {
-      "lng": "35.4480556",
-      "lat": "35.4480556"
-    },
-    "population": "13458"
-  },
-  "Scotts Hill": {
-    "coords": {
-      "lng": "35.5152778",
-      "lat": "35.5152778"
-    },
-    "population": "984"
-  },
-  "Atwood": {
-    "coords": {
-      "lng": "35.9797222",
-      "lat": "35.9797222"
-    },
-    "population": "938"
-  },
-  "Lakesite": {
-    "coords": {
-      "lng": "35.2058333",
-      "lat": "35.2058333"
-    },
-    "population": "826"
-  },
-  "Somerville": {
-    "coords": {
-      "lng": "35.2375000",
-      "lat": "35.2375000"
-    },
-    "population": "094"
-  },
-  "Brighton": {
-    "coords": {
-      "lng": "35.4827778",
-      "lat": "35.4827778"
-    },
-    "population": "735"
-  },
-  "Mountain City": {
-    "coords": {
-      "lng": "36.4683333",
-      "lat": "36.4683333"
-    },
-    "population": "531"
-  },
-  "Erwin": {
-    "coords": {
-      "lng": "36.1450000",
-      "lat": "36.1450000"
-    },
-    "population": "097"
-  },
-  "Linden": {
-    "coords": {
-      "lng": "35.6122222",
-      "lat": "35.6122222"
-    },
-    "population": "908"
-  },
-  "Paris": {
-    "coords": {
-      "lng": "36.3011111",
-      "lat": "36.3011111"
-    },
-    "population": "10156"
-  },
-  "Cottage Grove": {
-    "coords": {
-      "lng": "36.3786111",
-      "lat": "36.3786111"
-    },
-    "population": "88"
-  },
-  "Pittman Center": {
-    "coords": {
-      "lng": "35.7561111",
-      "lat": "35.7561111"
-    },
-    "population": "502"
-  },
-  "Ridgetop": {
-    "coords": {
-      "lng": "36.3963889",
-      "lat": "36.3963889"
-    },
-    "population": "874"
-  },
-  "Braden": {
-    "coords": {
-      "lng": "35.3750000",
-      "lat": "35.3750000"
-    },
-    "population": "282"
-  },
-  "Morrison": {
-    "coords": {
-      "lng": "35.6050000",
-      "lat": "35.6050000"
-    },
-    "population": "694"
-  },
-  "Liberty": {
-    "coords": {
-      "lng": "36.0050000",
-      "lat": "36.0050000"
-    },
-    "population": "310"
-  },
-  "Fayetteville": {
-    "coords": {
-      "lng": "35.1527778",
-      "lat": "35.1527778"
-    },
-    "population": "827"
-  },
-  "Sweetwater": {
-    "coords": {
-      "lng": "35.6025000",
-      "lat": "35.6025000"
-    },
-    "population": "764"
-  },
-  "Alexandria": {
-    "coords": {
-      "lng": "36.0772222",
-      "lat": "36.0772222"
-    },
-    "population": "966"
-  },
-  "Woodland Mills": {
-    "coords": {
-      "lng": "36.4752778",
-      "lat": "36.4752778"
-    },
-    "population": "378"
-  },
-  "Three Way": {
-    "coords": {
-      "lng": "35.7763889",
-      "lat": "35.7763889"
-    },
-    "population": "709"
-  },
-  "Chattanooga": {
-    "coords": {
-      "lng": "35.0455556",
-      "lat": "35.0455556"
-    },
-    "population": "167674"
-  },
-  "Whiteville": {
-    "coords": {
-      "lng": "35.3244444",
-      "lat": "35.3244444"
-    },
-    "population": "638"
-  },
-  "Stantonville": {
-    "coords": {
-      "lng": "35.1580556",
-      "lat": "35.1580556"
-    },
-    "population": "283"
-  },
-  "Cumberland City": {
-    "coords": {
-      "lng": "36.3905556",
-      "lat": "36.3905556"
-    },
-    "population": "311"
-  },
-  "Memphis": {
-    "coords": {
-      "lng": "35.1175000",
-      "lat": "35.1175000"
-    },
-    "population": "646889"
-  },
-  "Chapel Hill": {
-    "coords": {
-      "lng": "35.6280556",
-      "lat": "35.6280556"
-    },
-    "population": "445"
-  },
-  "Jamestown": {
-    "coords": {
-      "lng": "36.4291667",
-      "lat": "36.4291667"
-    },
-    "population": "959"
-  },
-  "Eastview": {
-    "coords": {
-      "lng": "35.0811111",
-      "lat": "35.0811111"
-    },
-    "population": "705"
-  },
-  "Huntland": {
-    "coords": {
-      "lng": "35.0536111",
-      "lat": "35.0536111"
-    },
-    "population": "872"
-  },
-  "Charlotte": {
-    "coords": {
-      "lng": "36.1788889",
-      "lat": "36.1788889"
-    },
-    "population": "235"
-  },
-  "Altamont": {
-    "coords": {
-      "lng": "35.4338889",
-      "lat": "35.4338889"
-    },
-    "population": "045"
-  },
-  "Clarksburg": {
-    "coords": {
-      "lng": "35.8711111",
-      "lat": "35.8711111"
-    },
-    "population": "393"
-  },
-  "Columbia": {
-    "coords": {
-      "lng": "35.6150000",
-      "lat": "35.6150000"
-    },
-    "population": "34681"
-  },
-  "Orme": {
-    "coords": {
-      "lng": "35.0113889",
-      "lat": "35.0113889"
-    },
-    "population": "126"
-  },
-  "Minor Hill": {
-    "coords": {
-      "lng": "35.0383333",
-      "lat": "35.0383333"
-    },
-    "population": "537"
-  },
-  "Red Boiling Springs": {
-    "coords": {
-      "lng": "36.5325000",
-      "lat": "36.5325000"
-    },
-    "population": "112"
-  },
-  "Auburntown": {
-    "coords": {
-      "lng": "35.9497222",
-      "lat": "35.9497222"
-    },
-    "population": "269"
-  },
-  "Michie": {
-    "coords": {
-      "lng": "35.0544444",
-      "lat": "35.0544444"
-    },
-    "population": "591"
-  },
-  "Cowan": {
-    "coords": {
-      "lng": "35.1666667",
-      "lat": "35.1666667"
-    },
-    "population": "737"
-  },
-  "Mosheim": {
-    "coords": {
-      "lng": "36.2002778",
-      "lat": "36.2002778"
-    },
-    "population": "362"
-  },
-  "Friendship": {
-    "coords": {
-      "lng": "35.9102778",
-      "lat": "35.9102778"
-    },
-    "population": "668"
-  },
-  "Alcoa": {
-    "coords": {
-      "lng": "35.8038889",
-      "lat": "35.8038889"
-    },
-    "population": "449"
-  },
-  "Manchester": {
-    "coords": {
-      "lng": "35.4733333",
-      "lat": "35.4733333"
-    },
-    "population": "10102"
-  },
-  "Ethridge": {
-    "coords": {
-      "lng": "35.3211111",
-      "lat": "35.3211111"
-    },
-    "population": "465"
-  },
-  "Beersheba Springs": {
-    "coords": {
-      "lng": "35.4672222",
-      "lat": "35.4672222"
-    },
-    "population": "477"
-  },
-  "Rockwood": {
-    "coords": {
-      "lng": "35.8691667",
-      "lat": "35.8691667"
-    },
-    "population": "562"
-  },
-  "Centertown": {
-    "coords": {
-      "lng": "35.7225000",
-      "lat": "35.7225000"
-    },
-    "population": "243"
-  },
-  "Cornersville": {
-    "coords": {
-      "lng": "35.3580556",
-      "lat": "35.3580556"
-    },
-    "population": "194"
-  },
-  "LaFollette": {
-    "coords": {
-      "lng": "36.3750000",
-      "lat": "36.3750000"
-    },
-    "population": "456"
-  },
-  "Calhoun": {
-    "coords": {
-      "lng": "35.2958333",
-      "lat": "35.2958333"
-    },
-    "population": "490"
-  },
-  "Lookout Mountain": {
-    "coords": {
-      "lng": "34.9963889",
-      "lat": "34.9963889"
-    },
-    "population": "832"
-  },
-  "Gleason": {
-    "coords": {
-      "lng": "36.2155556",
-      "lat": "36.2155556"
-    },
-    "population": "445"
-  },
-  "Lafayette": {
-    "coords": {
-      "lng": "36.5255556",
-      "lat": "36.5255556"
-    },
-    "population": "474"
-  },
-  "Tellico Plains": {
-    "coords": {
-      "lng": "35.3666667",
-      "lat": "35.3666667"
-    },
-    "population": "880"
-  },
-  "Loretto": {
-    "coords": {
-      "lng": "35.0783333",
-      "lat": "35.0783333"
-    },
-    "population": "714"
-  },
-  "Coalmont": {
-    "coords": {
-      "lng": "35.3444444",
-      "lat": "35.3444444"
-    },
-    "population": "841"
-  },
-  "McLemoresville": {
-    "coords": {
-      "lng": "35.9875000",
-      "lat": "35.9875000"
-    },
-    "population": "352"
-  },
-  "Hornbeak": {
-    "coords": {
-      "lng": "36.3338889",
-      "lat": "36.3338889"
-    },
-    "population": "424"
-  },
-  "Ripley": {
-    "coords": {
-      "lng": "35.7430556",
-      "lat": "35.7430556"
-    },
-    "population": "445"
-  },
-  "Gallatin": {
-    "coords": {
-      "lng": "36.3813889",
-      "lat": "36.3813889"
-    },
-    "population": "30278"
-  },
-  "Finger": {
-    "coords": {
-      "lng": "35.3566667",
-      "lat": "35.3566667"
-    },
-    "population": "298"
-  },
-  "Wartrace": {
-    "coords": {
-      "lng": "35.5269444",
-      "lat": "35.5269444"
-    },
-    "population": "651"
-  },
-  "Gainesboro": {
-    "coords": {
-      "lng": "36.3597222",
-      "lat": "36.3597222"
-    },
-    "population": "962"
-  },
-  "Ramer": {
-    "coords": {
-      "lng": "35.0702778",
-      "lat": "35.0702778"
-    },
-    "population": "319"
-  },
-  "Jasper": {
-    "coords": {
-      "lng": "35.0750000",
-      "lat": "35.0750000"
-    },
-    "population": "279"
-  },
-  "Smithville": {
-    "coords": {
-      "lng": "35.9572222",
-      "lat": "35.9572222"
-    },
-    "population": "530"
-  },
-  "Kingston": {
-    "coords": {
-      "lng": "35.8722222",
-      "lat": "35.8722222"
-    },
-    "population": "934"
-  },
-  "Watauga": {
-    "coords": {
-      "lng": "36.3672222",
-      "lat": "36.3672222"
-    },
-    "population": "458"
-  },
-  "Maury City": {
-    "coords": {
-      "lng": "35.8155556",
-      "lat": "35.8155556"
-    },
-    "population": "674"
-  },
-  "Oakland": {
-    "coords": {
-      "lng": "35.2266667",
-      "lat": "35.2266667"
-    },
-    "population": "623"
-  },
-  "Niota": {
-    "coords": {
-      "lng": "35.5141667",
-      "lat": "35.5141667"
-    },
-    "population": "719"
-  },
-  "Ashland City": {
-    "coords": {
-      "lng": "36.2680556",
-      "lat": "36.2680556"
-    },
-    "population": "541"
-  },
-  "New Johnsonville": {
-    "coords": {
-      "lng": "36.0191667",
-      "lat": "36.0191667"
-    },
-    "population": "951"
-  },
-  "Gibson": {
-    "coords": {
-      "lng": "35.8752778",
-      "lat": "35.8752778"
-    },
-    "population": "396"
-  },
-  "Madisonville": {
-    "coords": {
-      "lng": "35.5205556",
-      "lat": "35.5205556"
-    },
-    "population": "577"
-  },
-  "Monterey": {
-    "coords": {
-      "lng": "36.1452778",
-      "lat": "36.1452778"
-    },
-    "population": "850"
-  },
-  "Pigeon Forge": {
-    "coords": {
-      "lng": "35.7938889",
-      "lat": "35.7938889"
-    },
-    "population": "875"
-  },
-  "Lobelville": {
-    "coords": {
-      "lng": "35.7511111",
-      "lat": "35.7511111"
-    },
-    "population": "897"
-  },
-  "Orlinda": {
-    "coords": {
-      "lng": "36.6027778",
-      "lat": "36.6027778"
-    },
-    "population": "859"
-  },
-  "Garland": {
-    "coords": {
-      "lng": "35.5772222",
-      "lat": "35.5772222"
-    },
-    "population": "310"
-  },
-  "Knoxville": {
-    "coords": {
-      "lng": "35.9727778",
-      "lat": "35.9727778"
-    },
-    "population": "178874"
-  },
-  "Parrottsville": {
-    "coords": {
-      "lng": "36.0094444",
-      "lat": "36.0094444"
-    },
-    "population": "263"
-  },
-  "Etowah": {
-    "coords": {
-      "lng": "35.3294444",
-      "lat": "35.3294444"
-    },
-    "population": "490"
-  },
-  "Lenoir City": {
-    "coords": {
-      "lng": "35.7975000",
-      "lat": "35.7975000"
-    },
-    "population": "642"
-  },
-  "Sharon": {
-    "coords": {
-      "lng": "36.2333333",
-      "lat": "36.2333333"
-    },
-    "population": "944"
-  },
-  "Hickory Valley": {
-    "coords": {
-      "lng": "35.1550000",
-      "lat": "35.1550000"
-    },
-    "population": "99"
-  },
-  "Estill Springs": {
-    "coords": {
-      "lng": "35.2702778",
-      "lat": "35.2702778"
-    },
-    "population": "055"
-  },
-  "Trezevant": {
-    "coords": {
-      "lng": "36.0105556",
-      "lat": "36.0105556"
-    },
-    "population": "859"
-  },
-  "Forest Hills": {
-    "coords": {
-      "lng": "36.0691667",
-      "lat": "36.0691667"
-    },
-    "population": "812"
-  },
-  "Iron City": {
-    "coords": {
-      "lng": "35.0255556",
-      "lat": "35.0255556"
-    },
-    "population": "180"
-  },
-  "Martin": {
-    "coords": {
-      "lng": "36.3419444",
-      "lat": "36.3419444"
-    },
-    "population": "11473"
-  },
-  "McKenzie": {
-    "coords": {
-      "lng": "36.1330556",
-      "lat": "36.1330556"
-    },
-    "population": "310"
-  },
-  "Jackson": {
-    "coords": {
-      "lng": "35.6330556",
-      "lat": "35.6330556"
-    },
-    "population": "65211"
-  },
-  "Tiptonville": {
-    "coords": {
-      "lng": "36.3775000",
-      "lat": "36.3775000"
-    },
-    "population": "464"
-  },
-  "Philadelphia": {
-    "coords": {
-      "lng": "35.6783333",
-      "lat": "35.6783333"
-    },
-    "population": "656"
-  },
-  "Westmoreland": {
-    "coords": {
-      "lng": "36.5613889",
-      "lat": "36.5613889"
-    },
-    "population": "206"
-  },
-  "Kimball": {
-    "coords": {
-      "lng": "35.0469444",
-      "lat": "35.0469444"
-    },
-    "population": "395"
-  },
-  "Rossville": {
-    "coords": {
-      "lng": "35.0438889",
-      "lat": "35.0438889"
-    },
-    "population": "664"
-  },
-  "Wartburg": {
-    "coords": {
-      "lng": "36.1041667",
-      "lat": "36.1041667"
-    },
-    "population": "918"
-  },
-  "Townsend": {
-    "coords": {
-      "lng": "35.6755556",
-      "lat": "35.6755556"
-    },
-    "population": "448"
-  },
-  "Mitchellville": {
-    "coords": {
-      "lng": "36.6327778",
-      "lat": "36.6327778"
-    },
-    "population": "189"
-  },
-  "Harriman": {
-    "coords": {
-      "lng": "35.9286111",
-      "lat": "35.9286111"
-    },
-    "population": "350"
-  },
-  "Centerville": {
-    "coords": {
-      "lng": "35.7883333",
-      "lat": "35.7883333"
-    },
-    "population": "644"
-  },
-  "Bulls Gap": {
-    "coords": {
-      "lng": "36.2591667",
-      "lat": "36.2591667"
-    },
-    "population": "738"
-  },
-  "Coopertown": {
-    "coords": {
-      "lng": "36.4002778",
-      "lat": "36.4002778"
-    },
-    "population": "278"
-  },
-  "Waverly": {
-    "coords": {
-      "lng": "36.0858333",
-      "lat": "36.0858333"
-    },
-    "population": "105"
-  },
-  "South Fulton": {
-    "coords": {
-      "lng": "36.4966667",
-      "lat": "36.4966667"
-    },
-    "population": "354"
-  },
-  "Bethel Springs": {
-    "coords": {
-      "lng": "35.2375000",
-      "lat": "35.2375000"
-    },
-    "population": "718"
-  },
-  "Oak Hill": {
-    "coords": {
-      "lng": "36.0827778",
-      "lat": "36.0827778"
-    },
-    "population": "529"
-  },
-  "Sevierville": {
-    "coords": {
-      "lng": "35.8775000",
-      "lat": "35.8775000"
-    },
-    "population": "14807"
-  },
-  "Portland": {
-    "coords": {
-      "lng": "36.5825000",
-      "lat": "36.5825000"
-    },
-    "population": "11480"
-  },
-  "Pikeville": {
-    "coords": {
-      "lng": "35.6075000",
-      "lat": "35.6075000"
-    },
-    "population": "608"
-  },
-  "Clarksville": {
-    "coords": {
-      "lng": "36.5297222",
-      "lat": "36.5297222"
-    },
-    "population": "132929"
-  },
-  "Nashville": {
-    "coords": {
-      "lng": "36.1666667",
-      "lat": "36.1666667"
-    },
-    "population": "684410"
-  },
-  "Bean Station": {
-    "coords": {
-      "lng": "36.3436111",
-      "lat": "36.3436111"
-    },
-    "population": "826"
-  },
-  "Clifton": {
-    "coords": {
-      "lng": "35.3827778",
-      "lat": "35.3827778"
-    },
-    "population": "694"
-  },
-  "Millersville": {
-    "coords": {
-      "lng": "36.3944444",
-      "lat": "36.3944444"
-    },
-    "population": "440"
-  },
-  "Middleton": {
-    "coords": {
-      "lng": "35.0588889",
-      "lat": "35.0588889"
-    },
-    "population": "706"
+      "lng": "-85.5041667",
+      "lat": "36.1641667"
+    }
   },
   "Dresden": {
+    "population": "005",
     "coords": {
-      "lng": "36.2838889",
+      "lng": "-88.6983333",
       "lat": "36.2838889"
-    },
-    "population": "005"
+    }
   },
-  "Murfreesboro": {
+  "Garland": {
+    "population": "310",
     "coords": {
-      "lng": "35.8461111",
-      "lat": "35.8461111"
-    },
-    "population": "108755"
+      "lng": "-89.7558333",
+      "lat": "35.5772222"
+    }
   },
-  "Obion": {
+  "Springfield": {
+    "population": "16440",
     "coords": {
-      "lng": "36.2652778",
-      "lat": "36.2652778"
-    },
-    "population": "119"
+      "lng": "-86.8786111",
+      "lat": "36.4994444"
+    }
   },
-  "Livingston": {
+  "Coopertown": {
+    "population": "278",
     "coords": {
-      "lng": "36.3869444",
-      "lat": "36.3869444"
-    },
-    "population": "058"
+      "lng": "-86.9563889",
+      "lat": "36.4002778"
+    }
   },
-  "Hendersonville": {
+  "Decherd": {
+    "population": "361",
     "coords": {
-      "lng": "36.3000000",
-      "lat": "36.3000000"
-    },
-    "population": "51372"
+      "lng": "-86.0791667",
+      "lat": "35.2158333"
+    }
   },
-  "Puryear": {
+  "Winfield": {
+    "population": "967",
     "coords": {
-      "lng": "36.4447222",
-      "lat": "36.4447222"
-    },
-    "population": "671"
+      "lng": "-84.4505556",
+      "lat": "36.5619444"
+    }
   },
-  "Franklin": {
+  "Monterey": {
+    "population": "850",
     "coords": {
-      "lng": "35.9291667",
-      "lat": "35.9291667"
-    },
-    "population": "62487"
+      "lng": "-85.2658333",
+      "lat": "36.1452778"
+    }
   },
-  "Ardmore": {
+  "Three Way": {
+    "population": "709",
     "coords": {
-      "lng": "35.0047222",
-      "lat": "35.0047222"
-    },
-    "population": "213"
+      "lng": "-88.8511111",
+      "lat": "35.7763889"
+    }
   },
-  "Gatlinburg": {
+  "Brentwood": {
+    "population": "37060",
     "coords": {
-      "lng": "35.7144444",
-      "lat": "35.7144444"
-    },
-    "population": "944"
+      "lng": "-86.7925000",
+      "lat": "35.9980556"
+    }
   },
-  "Burlison": {
+  "Shelbyville": {
+    "population": "20335",
     "coords": {
-      "lng": "35.5572222",
-      "lat": "35.5572222"
-    },
-    "population": "425"
+      "lng": "-86.4522222",
+      "lat": "35.4888889"
+    }
   },
-  "Blaine": {
+  "Saint Joseph": {
+    "population": "782",
     "coords": {
-      "lng": "36.1508333",
-      "lat": "36.1508333"
-    },
-    "population": "856"
+      "lng": "-87.5022222",
+      "lat": "35.0350000"
+    }
+  },
+  "Red Boiling Springs": {
+    "population": "112",
+    "coords": {
+      "lng": "-85.8497222",
+      "lat": "36.5325000"
+    }
+  },
+  "Ashland City": {
+    "population": "541",
+    "coords": {
+      "lng": "-87.0550000",
+      "lat": "36.2680556"
+    }
+  },
+  "Enville": {
+    "population": "189",
+    "coords": {
+      "lng": "-88.4200000",
+      "lat": "35.3880556"
+    }
+  },
+  "Plainview": {
+    "population": "125",
+    "coords": {
+      "lng": "-83.7961111",
+      "lat": "36.1763889"
+    }
+  },
+  "Pikeville": {
+    "population": "608",
+    "coords": {
+      "lng": "-85.1913889",
+      "lat": "35.6075000"
+    }
+  },
+  "Cumberland City": {
+    "population": "311",
+    "coords": {
+      "lng": "-87.6408333",
+      "lat": "36.3905556"
+    }
+  },
+  "Bell Buckle": {
+    "population": "500",
+    "coords": {
+      "lng": "-86.3541667",
+      "lat": "35.5908333"
+    }
+  },
+  "Cleveland": {
+    "population": "41285",
+    "coords": {
+      "lng": "-84.8711111",
+      "lat": "35.1713889"
+    }
+  },
+  "McEwen": {
+    "population": "750",
+    "coords": {
+      "lng": "-87.6350000",
+      "lat": "36.1088889"
+    }
+  },
+  "Hohenwald": {
+    "population": "757",
+    "coords": {
+      "lng": "-87.5513889",
+      "lat": "35.5472222"
+    }
+  },
+  "La Vergne": {
+    "population": "32588",
+    "coords": {
+      "lng": "-86.5627778",
+      "lat": "36.0133333"
+    }
+  },
+  "Smithville": {
+    "population": "530",
+    "coords": {
+      "lng": "-85.8208333",
+      "lat": "35.9572222"
+    }
+  },
+  "LaFollette": {
+    "population": "456",
+    "coords": {
+      "lng": "-84.1275000",
+      "lat": "36.3750000"
+    }
+  },
+  "Clinton": {
+    "population": "841",
+    "coords": {
+      "lng": "-84.1286111",
+      "lat": "36.1047222"
+    }
+  },
+  "Loretto": {
+    "population": "714",
+    "coords": {
+      "lng": "-87.4388889",
+      "lat": "35.0783333"
+    }
+  },
+  "Winchester": {
+    "population": "530",
+    "coords": {
+      "lng": "-86.1125000",
+      "lat": "35.1883333"
+    }
+  },
+  "Kimball": {
+    "population": "395",
+    "coords": {
+      "lng": "-85.6744444",
+      "lat": "35.0469444"
+    }
+  },
+  "Erin": {
+    "population": "324",
+    "coords": {
+      "lng": "-87.6980556",
+      "lat": "36.3169444"
+    }
+  },
+  "Orme": {
+    "population": "126",
+    "coords": {
+      "lng": "-85.8052778",
+      "lat": "35.0113889"
+    }
   },
   "Church Hill": {
+    "population": "737",
     "coords": {
-      "lng": "36.5208333",
+      "lng": "-82.7255556",
       "lat": "36.5208333"
-    },
-    "population": "737"
+    }
   },
-  "Luttrell": {
+  "Ripley": {
+    "population": "445",
     "coords": {
-      "lng": "36.2030556",
-      "lat": "36.2030556"
-    },
-    "population": "074"
+      "lng": "-89.5338889",
+      "lat": "35.7430556"
+    }
+  },
+  "Philadelphia": {
+    "population": "656",
+    "coords": {
+      "lng": "-84.4013889",
+      "lat": "35.6783333"
+    }
+  },
+  "Lawrenceburg": {
+    "population": "10428",
+    "coords": {
+      "lng": "-87.3344444",
+      "lat": "35.2436111"
+    }
+  },
+  "Hornbeak": {
+    "population": "424",
+    "coords": {
+      "lng": "-89.2991667",
+      "lat": "36.3338889"
+    }
+  },
+  "Lenoir City": {
+    "population": "642",
+    "coords": {
+      "lng": "-84.2711111",
+      "lat": "35.7975000"
+    }
+  },
+  "Mitchellville": {
+    "population": "189",
+    "coords": {
+      "lng": "-86.5391667",
+      "lat": "36.6327778"
+    }
+  },
+  "McMinnville": {
+    "population": "13605",
+    "coords": {
+      "lng": "-85.7794444",
+      "lat": "35.6866667"
+    }
+  },
+  "New Johnsonville": {
+    "population": "951",
+    "coords": {
+      "lng": "-87.9675000",
+      "lat": "36.0191667"
+    }
+  },
+  "Burns": {
+    "population": "468",
+    "coords": {
+      "lng": "-87.3161111",
+      "lat": "36.0541667"
+    }
+  },
+  "Portland": {
+    "population": "11480",
+    "coords": {
+      "lng": "-86.5158333",
+      "lat": "36.5825000"
+    }
+  },
+  "Crump": {
+    "population": "428",
+    "coords": {
+      "lng": "-88.3361111",
+      "lat": "35.2325000"
+    }
+  },
+  "Jamestown": {
+    "population": "959",
+    "coords": {
+      "lng": "-84.9325000",
+      "lat": "36.4291667"
+    }
+  },
+  "Etowah": {
+    "population": "490",
+    "coords": {
+      "lng": "-84.5283333",
+      "lat": "35.3294444"
+    }
+  },
+  "Oneida": {
+    "population": "752",
+    "coords": {
+      "lng": "-84.5166667",
+      "lat": "36.5005556"
+    }
+  },
+  "Copperhill": {
+    "population": "354",
+    "coords": {
+      "lng": "-84.3741667",
+      "lat": "34.9922222"
+    }
+  },
+  "Lexington": {
+    "population": "652",
+    "coords": {
+      "lng": "-88.3925000",
+      "lat": "35.6572222"
+    }
+  },
+  "Celina": {
+    "population": "495",
+    "coords": {
+      "lng": "-85.5019444",
+      "lat": "36.5483333"
+    }
+  },
+  "Jacksboro": {
+    "population": "020",
+    "coords": {
+      "lng": "-84.1888889",
+      "lat": "36.3313889"
+    }
+  },
+  "Maury City": {
+    "population": "674",
+    "coords": {
+      "lng": "-89.2238889",
+      "lat": "35.8155556"
+    }
+  },
+  "Munford": {
+    "population": "927",
+    "coords": {
+      "lng": "-89.8105556",
+      "lat": "35.4447222"
+    }
+  },
+  "Pulaski": {
+    "population": "870",
+    "coords": {
+      "lng": "-87.0344444",
+      "lat": "35.1958333"
+    }
+  },
+  "Covington": {
+    "population": "038",
+    "coords": {
+      "lng": "-89.6463889",
+      "lat": "35.5641667"
+    }
+  },
+  "Columbia": {
+    "population": "34681",
+    "coords": {
+      "lng": "-87.0444444",
+      "lat": "35.6150000"
+    }
+  },
+  "Minor Hill": {
+    "population": "537",
+    "coords": {
+      "lng": "-87.1711111",
+      "lat": "35.0383333"
+    }
+  },
+  "Auburntown": {
+    "population": "269",
+    "coords": {
+      "lng": "-86.0958333",
+      "lat": "35.9497222"
+    }
+  },
+  "Beersheba Springs": {
+    "population": "477",
+    "coords": {
+      "lng": "-85.6716667",
+      "lat": "35.4672222"
+    }
+  },
+  "Woodland Mills": {
+    "population": "378",
+    "coords": {
+      "lng": "-89.1125000",
+      "lat": "36.4752778"
+    }
+  },
+  "Jellico": {
+    "population": "355",
+    "coords": {
+      "lng": "-84.1305556",
+      "lat": "36.5825000"
+    }
+  },
+  "Hollow Rock": {
+    "population": "718",
+    "coords": {
+      "lng": "-88.2750000",
+      "lat": "36.0355556"
+    }
+  },
+  "Gallatin": {
+    "population": "30278",
+    "coords": {
+      "lng": "-86.4513889",
+      "lat": "36.3813889"
+    }
+  },
+  "Spencer": {
+    "population": "601",
+    "coords": {
+      "lng": "-85.4583333",
+      "lat": "35.7436111"
+    }
+  },
+  "Mason": {
+    "population": "609",
+    "coords": {
+      "lng": "-89.5413889",
+      "lat": "35.4102778"
+    }
+  },
+  "Dandridge": {
+    "population": "812",
+    "coords": {
+      "lng": "-83.4238889",
+      "lat": "36.0286111"
+    }
+  },
+  "Oak Ridge": {
+    "population": "29330",
+    "coords": {
+      "lng": "-84.2625000",
+      "lat": "36.0133333"
+    }
+  },
+  "Estill Springs": {
+    "population": "055",
+    "coords": {
+      "lng": "-86.1327778",
+      "lat": "35.2702778"
+    }
+  },
+  "Sharon": {
+    "population": "944",
+    "coords": {
+      "lng": "-88.8250000",
+      "lat": "36.2333333"
+    }
+  },
+  "Berry Hill": {
+    "population": "537",
+    "coords": {
+      "lng": "-86.7700000",
+      "lat": "36.1191667"
+    }
+  },
+  "Martin": {
+    "population": "11473",
+    "coords": {
+      "lng": "-88.8516667",
+      "lat": "36.3419444"
+    }
+  },
+  "Alexandria": {
+    "population": "966",
+    "coords": {
+      "lng": "-86.0333333",
+      "lat": "36.0772222"
+    }
+  },
+  "Goodlettsville": {
+    "population": "15921",
+    "coords": {
+      "lng": "-86.7041667",
+      "lat": "36.3269444"
+    }
+  },
+  "Lafayette": {
+    "population": "474",
+    "coords": {
+      "lng": "-86.0261111",
+      "lat": "36.5255556"
+    }
+  },
+  "Obion": {
+    "population": "119",
+    "coords": {
+      "lng": "-89.1922222",
+      "lat": "36.2652778"
+    }
+  },
+  "Paris": {
+    "population": "10156",
+    "coords": {
+      "lng": "-88.3138889",
+      "lat": "36.3011111"
+    }
+  },
+  "Eagleville": {
+    "population": "604",
+    "coords": {
+      "lng": "-86.6511111",
+      "lat": "35.7411111"
+    }
+  },
+  "Humboldt": {
+    "population": "452",
+    "coords": {
+      "lng": "-88.9111111",
+      "lat": "35.8225000"
+    }
+  },
+  "Bartlett": {
+    "population": "54613",
+    "coords": {
+      "lng": "-89.8411111",
+      "lat": "35.2230556"
+    }
+  },
+  "Rockford": {
+    "population": "856",
+    "coords": {
+      "lng": "-83.9422222",
+      "lat": "35.8391667"
+    }
+  },
+  "Ramer": {
+    "population": "319",
+    "coords": {
+      "lng": "-88.6158333",
+      "lat": "35.0702778"
+    }
+  },
+  "Dowelltown": {
+    "population": "355",
+    "coords": {
+      "lng": "-85.9430556",
+      "lat": "36.0130556"
+    }
+  },
+  "South Fulton": {
+    "population": "354",
+    "coords": {
+      "lng": "-88.8791667",
+      "lat": "36.4966667"
+    }
+  },
+  "Hornsby": {
+    "population": "303",
+    "coords": {
+      "lng": "-88.8297222",
+      "lat": "35.2266667"
+    }
+  },
+  "Medina": {
+    "population": "479",
+    "coords": {
+      "lng": "-88.7808333",
+      "lat": "35.8052778"
+    }
+  },
+  "Byrdstown": {
+    "population": "803",
+    "coords": {
+      "lng": "-85.1372222",
+      "lat": "36.5725000"
+    }
+  },
+  "Stanton": {
+    "population": "452",
+    "coords": {
+      "lng": "-89.4013889",
+      "lat": "35.4625000"
+    }
+  },
+  "Braden": {
+    "population": "282",
+    "coords": {
+      "lng": "-89.5750000",
+      "lat": "35.3750000"
+    }
+  },
+  "Elizabethton": {
+    "population": "14176",
+    "coords": {
+      "lng": "-82.2391667",
+      "lat": "36.3363889"
+    }
+  },
+  "Iron City": {
+    "population": "180",
+    "coords": {
+      "lng": "-87.5836111",
+      "lat": "35.0255556"
+    }
+  },
+  "White Bluff": {
+    "population": "206",
+    "coords": {
+      "lng": "-87.2202778",
+      "lat": "36.1080556"
+    }
+  },
+  "Gatlinburg": {
+    "population": "944",
+    "coords": {
+      "lng": "-83.5113889",
+      "lat": "35.7144444"
+    }
+  },
+  "Franklin": {
+    "population": "62487",
+    "coords": {
+      "lng": "-86.8575000",
+      "lat": "35.9291667"
+    }
+  },
+  "Mount Juliet": {
+    "population": "23671",
+    "coords": {
+      "lng": "-86.5136111",
+      "lat": "36.2027778"
+    }
+  },
+  "Trimble": {
+    "population": "637",
+    "coords": {
+      "lng": "-89.1888889",
+      "lat": "36.2022222"
+    }
+  },
+  "Pleasant Hill": {
+    "population": "563",
+    "coords": {
+      "lng": "-85.2002778",
+      "lat": "35.9769444"
+    }
+  },
+  "Soddy-Daisy": {
+    "population": "12714",
+    "coords": {
+      "lng": "-85.1769444",
+      "lat": "35.2586111"
+    }
+  },
+  "McKenzie": {
+    "population": "310",
+    "coords": {
+      "lng": "-88.5172222",
+      "lat": "36.1330556"
+    }
+  },
+  "Sparta": {
+    "population": "925",
+    "coords": {
+      "lng": "-85.4697222",
+      "lat": "35.9322222"
+    }
+  },
+  "Watauga": {
+    "population": "458",
+    "coords": {
+      "lng": "-82.2913889",
+      "lat": "36.3672222"
+    }
+  },
+  "Liberty": {
+    "population": "310",
+    "coords": {
+      "lng": "-85.9727778",
+      "lat": "36.0050000"
+    }
+  },
+  "Toone": {
+    "population": "364",
+    "coords": {
+      "lng": "-88.9538889",
+      "lat": "35.3522222"
+    }
+  },
+  "Henry": {
+    "population": "464",
+    "coords": {
+      "lng": "-88.4183333",
+      "lat": "36.2022222"
+    }
+  },
+  "Dyer": {
+    "population": "341",
+    "coords": {
+      "lng": "-88.9916667",
+      "lat": "36.0691667"
+    }
+  },
+  "Loudon": {
+    "population": "381",
+    "coords": {
+      "lng": "-84.3494444",
+      "lat": "35.7338889"
+    }
+  },
+  "Charleston": {
+    "population": "651",
+    "coords": {
+      "lng": "-84.7569444",
+      "lat": "35.2844444"
+    }
+  },
+  "Clarksville": {
+    "population": "132929",
+    "coords": {
+      "lng": "-87.3594444",
+      "lat": "36.5297222"
+    }
+  },
+  "Greenfield": {
+    "population": "182",
+    "coords": {
+      "lng": "-88.8013889",
+      "lat": "36.1569444"
+    }
+  },
+  "Rockwood": {
+    "population": "562",
+    "coords": {
+      "lng": "-84.6752778",
+      "lat": "35.8691667"
+    }
+  },
+  "Fairview": {
+    "population": "720",
+    "coords": {
+      "lng": "-87.1291667",
+      "lat": "35.9819444"
+    }
+  },
+  "Tennessee Ridge": {
+    "population": "368",
+    "coords": {
+      "lng": "-87.7630556",
+      "lat": "36.3208333"
+    }
+  },
+  "Fayetteville": {
+    "population": "827",
+    "coords": {
+      "lng": "-86.5713889",
+      "lat": "35.1527778"
+    }
+  },
+  "Baneberry": {
+    "population": "482",
+    "coords": {
+      "lng": "-83.2758333",
+      "lat": "36.0458333"
+    }
+  },
+  "Tusculum": {
+    "population": "663",
+    "coords": {
+      "lng": "-82.7508333",
+      "lat": "36.1758333"
+    }
+  },
+  "Lobelville": {
+    "population": "897",
+    "coords": {
+      "lng": "-87.7930556",
+      "lat": "35.7511111"
+    }
+  },
+  "Whitwell": {
+    "population": "699",
+    "coords": {
+      "lng": "-85.5191667",
+      "lat": "35.1975000"
+    }
+  },
+  "Adamsville": {
+    "population": "207",
+    "coords": {
+      "lng": "-88.3902778",
+      "lat": "35.2500000"
+    }
+  },
+  "Alamo": {
+    "population": "461",
+    "coords": {
+      "lng": "-89.1158333",
+      "lat": "35.7841667"
+    }
+  },
+  "Jefferson City": {
+    "population": "047",
+    "coords": {
+      "lng": "-83.4863889",
+      "lat": "36.1163889"
+    }
+  },
+  "Pigeon Forge": {
+    "population": "875",
+    "coords": {
+      "lng": "-83.5641667",
+      "lat": "35.7938889"
+    }
+  },
+  "Oakdale": {
+    "population": "212",
+    "coords": {
+      "lng": "-84.5569444",
+      "lat": "35.9850000"
+    }
+  },
+  "Crab Orchard": {
+    "population": "752",
+    "coords": {
+      "lng": "-84.8772222",
+      "lat": "35.9058333"
+    }
+  },
+  "Vanleer": {
+    "population": "395",
+    "coords": {
+      "lng": "-87.4447222",
+      "lat": "36.2375000"
+    }
+  },
+  "Lewisburg": {
+    "population": "11100",
+    "coords": {
+      "lng": "-86.7930556",
+      "lat": "35.4491667"
+    }
+  },
+  "Rossville": {
+    "population": "664",
+    "coords": {
+      "lng": "-89.5430556",
+      "lat": "35.0438889"
+    }
+  },
+  "Burlison": {
+    "population": "425",
+    "coords": {
+      "lng": "-89.7869444",
+      "lat": "35.5572222"
+    }
+  },
+  "Carthage": {
+    "population": "306",
+    "coords": {
+      "lng": "-85.9491667",
+      "lat": "36.2550000"
+    }
+  },
+  "Union City": {
+    "population": "10895",
+    "coords": {
+      "lng": "-89.0508333",
+      "lat": "36.4244444"
+    }
+  },
+  "Allardt": {
+    "population": "634",
+    "coords": {
+      "lng": "-84.8855556",
+      "lat": "36.3855556"
+    }
+  },
+  "Wartrace": {
+    "population": "651",
+    "coords": {
+      "lng": "-86.3308333",
+      "lat": "35.5269444"
+    }
+  },
+  "New Tazewell": {
+    "population": "037",
+    "coords": {
+      "lng": "-83.6075000",
+      "lat": "36.4377778"
+    }
+  },
+  "Hendersonville": {
+    "population": "51372",
+    "coords": {
+      "lng": "-86.6061111",
+      "lat": "36.3000000"
+    }
+  },
+  "Baileyton": {
+    "population": "431",
+    "coords": {
+      "lng": "-82.8305556",
+      "lat": "36.3280556"
+    }
+  },
+  "Palmer": {
+    "population": "672",
+    "coords": {
+      "lng": "-85.5619444",
+      "lat": "35.3563889"
+    }
+  },
+  "Milledgeville": {
+    "population": "265",
+    "coords": {
+      "lng": "-88.3644444",
+      "lat": "35.3772222"
+    }
+  },
+  "Memphis": {
+    "population": "646889",
+    "coords": {
+      "lng": "-89.9711111",
+      "lat": "35.1175000"
+    }
+  },
+  "Troy": {
+    "population": "371",
+    "coords": {
+      "lng": "-89.1566667",
+      "lat": "36.3408333"
+    }
+  },
+  "Caryville": {
+    "population": "297",
+    "coords": {
+      "lng": "-84.2161111",
+      "lat": "36.3200000"
+    }
+  },
+  "Guys": {
+    "population": "466",
+    "coords": {
+      "lng": "-88.5466667",
+      "lat": "35.0230556"
+    }
+  },
+  "Gainesboro": {
+    "population": "962",
+    "coords": {
+      "lng": "-85.6547222",
+      "lat": "36.3597222"
+    }
+  },
+  "Adams": {
+    "population": "633",
+    "coords": {
+      "lng": "-87.0650000",
+      "lat": "36.5816667"
+    }
+  },
+  "Gates": {
+    "population": "647",
+    "coords": {
+      "lng": "-89.4069444",
+      "lat": "35.8391667"
+    }
+  },
+  "Williston": {
+    "population": "395",
+    "coords": {
+      "lng": "-89.3733333",
+      "lat": "35.1588889"
+    }
+  },
+  "Crossville": {
+    "population": "10795",
+    "coords": {
+      "lng": "-85.0313889",
+      "lat": "35.9541667"
+    }
+  },
+  "Forest Hills": {
+    "population": "812",
+    "coords": {
+      "lng": "-86.8358333",
+      "lat": "36.0691667"
+    }
+  },
+  "Algood": {
+    "population": "495",
+    "coords": {
+      "lng": "-85.4483333",
+      "lat": "36.1975000"
+    }
+  },
+  "Morrison": {
+    "population": "694",
+    "coords": {
+      "lng": "-85.9150000",
+      "lat": "35.6050000"
+    }
+  },
+  "Oak Hill": {
+    "population": "529",
+    "coords": {
+      "lng": "-86.7869444",
+      "lat": "36.0827778"
+    }
+  },
+  "Piperton": {
+    "population": "445",
+    "coords": {
+      "lng": "-89.6233333",
+      "lat": "35.0450000"
+    }
+  },
+  "Graysville": {
+    "population": "502",
+    "coords": {
+      "lng": "-85.0825000",
+      "lat": "35.4477778"
+    }
+  },
+  "Pittman Center": {
+    "population": "502",
+    "coords": {
+      "lng": "-83.3827778",
+      "lat": "35.7561111"
+    }
+  },
+  "Ridgetop": {
+    "population": "874",
+    "coords": {
+      "lng": "-86.7727778",
+      "lat": "36.3963889"
+    }
+  },
+  "Jasper": {
+    "population": "279",
+    "coords": {
+      "lng": "-85.6280556",
+      "lat": "35.0750000"
+    }
+  },
+  "Coalmont": {
+    "population": "841",
+    "coords": {
+      "lng": "-85.7172222",
+      "lat": "35.3444444"
+    }
+  },
+  "Germantown": {
+    "population": "38844",
+    "coords": {
+      "lng": "-89.7938889",
+      "lat": "35.0888889"
+    }
+  },
+  "Big Sandy": {
+    "population": "557",
+    "coords": {
+      "lng": "-88.0858333",
+      "lat": "36.2341667"
+    }
+  },
+  "Linden": {
+    "population": "908",
+    "coords": {
+      "lng": "-87.8416667",
+      "lat": "35.6122222"
+    }
+  },
+  "Millington": {
+    "population": "10176",
+    "coords": {
+      "lng": "-89.9022222",
+      "lat": "35.3366667"
+    }
+  },
+  "Friendship": {
+    "population": "668",
+    "coords": {
+      "lng": "-89.2419444",
+      "lat": "35.9102778"
+    }
+  },
+  "Trezevant": {
+    "population": "859",
+    "coords": {
+      "lng": "-88.6230556",
+      "lat": "36.0105556"
+    }
+  },
+  "Stantonville": {
+    "population": "283",
+    "coords": {
+      "lng": "-88.4283333",
+      "lat": "35.1580556"
+    }
+  },
+  "Samburg": {
+    "population": "217",
+    "coords": {
+      "lng": "-89.3522222",
+      "lat": "36.3800000"
+    }
+  },
+  "Calhoun": {
+    "population": "490",
+    "coords": {
+      "lng": "-84.7480556",
+      "lat": "35.2958333"
+    }
+  },
+  "Manchester": {
+    "population": "10102",
+    "coords": {
+      "lng": "-86.0855556",
+      "lat": "35.4733333"
+    }
+  },
+  "Kenton": {
+    "population": "281",
+    "coords": {
+      "lng": "-89.0130556",
+      "lat": "36.2019444"
+    }
+  },
+  "Morristown": {
+    "population": "29137",
+    "coords": {
+      "lng": "-83.2961111",
+      "lat": "36.2105556"
+    }
+  },
+  "Cross Plains": {
+    "population": "714",
+    "coords": {
+      "lng": "-86.6741667",
+      "lat": "36.5450000"
+    }
+  },
+  "Tellico Plains": {
+    "population": "880",
+    "coords": {
+      "lng": "-84.2988889",
+      "lat": "35.3666667"
+    }
+  },
+  "Somerville": {
+    "population": "094",
+    "coords": {
+      "lng": "-89.3583333",
+      "lat": "35.2375000"
+    }
+  },
+  "Parsons": {
+    "population": "373",
+    "coords": {
+      "lng": "-88.1233333",
+      "lat": "35.6488889"
+    }
+  },
+  "White House": {
+    "population": "10255",
+    "coords": {
+      "lng": "-86.6627778",
+      "lat": "36.4652778"
+    }
+  },
+  "Moscow": {
+    "population": "556",
+    "coords": {
+      "lng": "-89.3997222",
+      "lat": "35.0611111"
+    }
+  },
+  "Arlington": {
+    "population": "11517",
+    "coords": {
+      "lng": "-89.6733333",
+      "lat": "35.2777778"
+    }
+  },
+  "Medon": {
+    "population": "178",
+    "coords": {
+      "lng": "-88.8672222",
+      "lat": "35.4586111"
+    }
+  },
+  "South Pittsburg": {
+    "population": "992",
+    "coords": {
+      "lng": "-85.7105556",
+      "lat": "35.0083333"
+    }
+  },
+  "Clifton": {
+    "population": "694",
+    "coords": {
+      "lng": "-87.9919444",
+      "lat": "35.3827778"
+    }
+  },
+  "Decaturville": {
+    "population": "867",
+    "coords": {
+      "lng": "-88.1219444",
+      "lat": "35.5830556"
+    }
+  },
+  "Dickson": {
+    "population": "14538",
+    "coords": {
+      "lng": "-87.3744444",
+      "lat": "36.0713889"
+    }
+  },
+  "Cowan": {
+    "population": "737",
+    "coords": {
+      "lng": "-86.0119444",
+      "lat": "35.1666667"
+    }
   },
   "Pegram": {
+    "population": "093",
     "coords": {
-      "lng": "36.1016667",
+      "lng": "-87.0516667",
       "lat": "36.1016667"
-    },
-    "population": "093"
+    }
   },
-  "Sunbright": {
+  "Brighton": {
+    "population": "735",
     "coords": {
-      "lng": "36.2475000",
-      "lat": "36.2475000"
-    },
-    "population": "552"
+      "lng": "-89.7236111",
+      "lat": "35.4827778"
+    }
+  },
+  "Parkers Crossroads": {
+    "population": "330",
+    "coords": {
+      "lng": "-88.3894444",
+      "lat": "35.7816667"
+    }
+  },
+  "Waynesboro": {
+    "population": "449",
+    "coords": {
+      "lng": "-87.7569444",
+      "lat": "35.3205556"
+    }
+  },
+  "Charlotte": {
+    "population": "235",
+    "coords": {
+      "lng": "-87.3441667",
+      "lat": "36.1788889"
+    }
+  },
+  "Norris": {
+    "population": "491",
+    "coords": {
+      "lng": "-84.0691667",
+      "lat": "36.1994444"
+    }
+  },
+  "Camden": {
+    "population": "582",
+    "coords": {
+      "lng": "-88.0858333",
+      "lat": "36.0463889"
+    }
+  },
+  "Cumberland Gap": {
+    "population": "494",
+    "coords": {
+      "lng": "-83.6672222",
+      "lat": "36.5988889"
+    }
+  },
+  "Sevierville": {
+    "population": "14807",
+    "coords": {
+      "lng": "-83.5700000",
+      "lat": "35.8775000"
+    }
+  },
+  "Millersville": {
+    "population": "440",
+    "coords": {
+      "lng": "-86.7163889",
+      "lat": "36.3944444"
+    }
+  },
+  "Bean Station": {
+    "population": "826",
+    "coords": {
+      "lng": "-83.2841667",
+      "lat": "36.3436111"
+    }
+  },
+  "Eastview": {
+    "population": "705",
+    "coords": {
+      "lng": "-88.5508333",
+      "lat": "35.0811111"
+    }
+  },
+  "Collinwood": {
+    "population": "982",
+    "coords": {
+      "lng": "-87.7427778",
+      "lat": "35.1702778"
+    }
+  },
+  "Baxter": {
+    "population": "365",
+    "coords": {
+      "lng": "-85.6363889",
+      "lat": "36.1550000"
+    }
+  },
+  "Louisville": {
+    "population": "439",
+    "coords": {
+      "lng": "-84.0466667",
+      "lat": "35.8236111"
+    }
+  },
+  "Centertown": {
+    "population": "243",
+    "coords": {
+      "lng": "-85.9202778",
+      "lat": "35.7225000"
+    }
+  },
+  "Jackson": {
+    "population": "65211",
+    "coords": {
+      "lng": "-88.8208333",
+      "lat": "35.6330556"
+    }
+  },
+  "Blountville": {
+    "population": "074",
+    "coords": {
+      "lng": "-82.3263889",
+      "lat": "36.5333333"
+    }
+  },
+  "Englewood": {
+    "population": "532",
+    "coords": {
+      "lng": "-84.4869444",
+      "lat": "35.4263889"
+    }
+  },
+  "Benton": {
+    "population": "385",
+    "coords": {
+      "lng": "-84.6500000",
+      "lat": "35.1730556"
+    }
+  },
+  "Decatur": {
+    "population": "598",
+    "coords": {
+      "lng": "-84.7933333",
+      "lat": "35.5188889"
+    }
+  },
+  "Brownsville": {
+    "population": "10292",
+    "coords": {
+      "lng": "-89.2608333",
+      "lat": "35.5905556"
+    }
+  },
+  "Oakland": {
+    "population": "623",
+    "coords": {
+      "lng": "-89.5180556",
+      "lat": "35.2266667"
+    }
+  },
+  "Tullahoma": {
+    "population": "18655",
+    "coords": {
+      "lng": "-86.2133333",
+      "lat": "35.3686111"
+    }
+  },
+  "Madisonville": {
+    "population": "577",
+    "coords": {
+      "lng": "-84.3627778",
+      "lat": "35.5205556"
+    }
+  },
+  "Livingston": {
+    "population": "058",
+    "coords": {
+      "lng": "-85.3255556",
+      "lat": "36.3869444"
+    }
+  },
+  "Ridgely": {
+    "population": "795",
+    "coords": {
+      "lng": "-89.4827778",
+      "lat": "36.2644444"
+    }
+  },
+  "Smyrna": {
+    "population": "39974",
+    "coords": {
+      "lng": "-86.5211111",
+      "lat": "35.9794444"
+    }
+  },
+  "La Grange": {
+    "population": "133",
+    "coords": {
+      "lng": "-89.2344444",
+      "lat": "35.0455556"
+    }
+  },
+  "Murfreesboro": {
+    "population": "108755",
+    "coords": {
+      "lng": "-86.3919444",
+      "lat": "35.8461111"
+    }
+  },
+  "Atwood": {
+    "population": "938",
+    "coords": {
+      "lng": "-88.6675000",
+      "lat": "35.9797222"
+    }
+  },
+  "Woodbury": {
+    "population": "680",
+    "coords": {
+      "lng": "-86.0702778",
+      "lat": "35.8236111"
+    }
+  },
+  "Finger": {
+    "population": "298",
+    "coords": {
+      "lng": "-88.6088889",
+      "lat": "35.3566667"
+    }
+  },
+  "Unicoi": {
+    "population": "632",
+    "coords": {
+      "lng": "-82.3380556",
+      "lat": "36.2200000"
+    }
+  },
+  "Kingston": {
+    "population": "934",
+    "coords": {
+      "lng": "-84.5250000",
+      "lat": "35.8722222"
+    }
+  },
+  "Friendsville": {
+    "population": "913",
+    "coords": {
+      "lng": "-84.1311111",
+      "lat": "35.7558333"
+    }
+  },
+  "Jonesborough": {
+    "population": "051",
+    "coords": {
+      "lng": "-82.4725000",
+      "lat": "36.2941667"
+    }
+  },
+  "Greeneville": {
+    "population": "15062",
+    "coords": {
+      "lng": "-82.8225000",
+      "lat": "36.1683333"
+    }
+  },
+  "Gibson": {
+    "population": "396",
+    "coords": {
+      "lng": "-88.8469444",
+      "lat": "35.8752778"
+    }
+  },
+  "Chattanooga": {
+    "population": "167674",
+    "coords": {
+      "lng": "-85.2672222",
+      "lat": "35.0455556"
+    }
+  },
+  "Farragut": {
+    "population": "20676",
+    "coords": {
+      "lng": "-84.1736111",
+      "lat": "35.8775000"
+    }
+  },
+  "Greenback": {
+    "population": "064",
+    "coords": {
+      "lng": "-84.1650000",
+      "lat": "35.6558333"
+    }
+  },
+  "Mosheim": {
+    "population": "362",
+    "coords": {
+      "lng": "-82.9727778",
+      "lat": "36.2002778"
+    }
+  },
+  "Huntland": {
+    "population": "872",
+    "coords": {
+      "lng": "-86.2686111",
+      "lat": "35.0536111"
+    }
+  },
+  "Nolensville": {
+    "population": "861",
+    "coords": {
+      "lng": "-86.6669444",
+      "lat": "35.9566667"
+    }
+  },
+  "Elkton": {
+    "population": "578",
+    "coords": {
+      "lng": "-86.8980556",
+      "lat": "35.0627778"
+    }
+  },
+  "Westmoreland": {
+    "population": "206",
+    "coords": {
+      "lng": "-86.2472222",
+      "lat": "36.5613889"
+    }
+  },
+  "Rutherford": {
+    "population": "151",
+    "coords": {
+      "lng": "-88.9900000",
+      "lat": "36.1255556"
+    }
+  },
+  "Scotts Hill": {
+    "population": "984",
+    "coords": {
+      "lng": "-88.2508333",
+      "lat": "35.5152778"
+    }
+  },
+  "Lynchburg": {
+    "population": "362",
+    "coords": {
+      "lng": "-86.3575000",
+      "lat": "35.2841667"
+    }
+  },
+  "Dover": {
+    "population": "417",
+    "coords": {
+      "lng": "-87.8447222",
+      "lat": "36.4822222"
+    }
+  },
+  "Cottage Grove": {
+    "population": "88",
+    "coords": {
+      "lng": "-88.4802778",
+      "lat": "36.3786111"
+    }
+  },
+  "Ethridge": {
+    "population": "465",
+    "coords": {
+      "lng": "-87.3022222",
+      "lat": "35.3211111"
+    }
+  },
+  "Sardis": {
+    "population": "381",
+    "coords": {
+      "lng": "-88.2913889",
+      "lat": "35.4427778"
+    }
+  },
+  "New Hope": {
+    "population": "082",
+    "coords": {
+      "lng": "-85.6533333",
+      "lat": "35.0000000"
+    }
+  },
+  "Townsend": {
+    "population": "448",
+    "coords": {
+      "lng": "-83.7550000",
+      "lat": "35.6755556"
+    }
+  },
+  "Blaine": {
+    "population": "856",
+    "coords": {
+      "lng": "-83.7005556",
+      "lat": "36.1508333"
+    }
+  },
+  "Niota": {
+    "population": "719",
+    "coords": {
+      "lng": "-84.5472222",
+      "lat": "35.5141667"
+    }
+  },
+  "Gleason": {
+    "population": "445",
+    "coords": {
+      "lng": "-88.6122222",
+      "lat": "36.2155556"
+    }
+  },
+  "Surgoinsville": {
+    "population": "801",
+    "coords": {
+      "lng": "-82.8541667",
+      "lat": "36.4741667"
+    }
+  },
+  "Huntingdon": {
+    "population": "985",
+    "coords": {
+      "lng": "-88.4205556",
+      "lat": "36.0072222"
+    }
+  },
+  "Centerville": {
+    "population": "644",
+    "coords": {
+      "lng": "-87.4558333",
+      "lat": "35.7883333"
+    }
+  },
+  "Knoxville": {
+    "population": "178874",
+    "coords": {
+      "lng": "-83.9422222",
+      "lat": "35.9727778"
+    }
+  },
+  "Atoka": {
+    "population": "387",
+    "coords": {
+      "lng": "-89.7827778",
+      "lat": "35.4247222"
+    }
+  },
+  "Michie": {
+    "population": "591",
+    "coords": {
+      "lng": "-88.4313889",
+      "lat": "35.0544444"
+    }
+  },
+  "Watertown": {
+    "population": "477",
+    "coords": {
+      "lng": "-86.1372222",
+      "lat": "36.1000000"
+    }
+  },
+  "Newport": {
+    "population": "945",
+    "coords": {
+      "lng": "-83.1966667",
+      "lat": "35.9633333"
+    }
+  },
+  "Gallaway": {
+    "population": "680",
+    "coords": {
+      "lng": "-89.6163889",
+      "lat": "35.3266667"
+    }
+  },
+  "Tiptonville": {
+    "population": "464",
+    "coords": {
+      "lng": "-89.4761111",
+      "lat": "36.3775000"
+    }
+  },
+  "Hickory Valley": {
+    "population": "99",
+    "coords": {
+      "lng": "-89.1266667",
+      "lat": "35.1550000"
+    }
+  },
+  "Orlinda": {
+    "population": "859",
+    "coords": {
+      "lng": "-86.6683333",
+      "lat": "36.6027778"
+    }
+  },
+  "Collierville": {
+    "population": "43965",
+    "coords": {
+      "lng": "-89.6822222",
+      "lat": "35.0544444"
+    }
+  },
+  "Henning": {
+    "population": "945",
+    "coords": {
+      "lng": "-89.5775000",
+      "lat": "35.6736111"
+    }
+  },
+  "Doyle": {
+    "population": "537",
+    "coords": {
+      "lng": "-85.5130556",
+      "lat": "35.8536111"
+    }
+  },
+  "Bethel Springs": {
+    "population": "718",
+    "coords": {
+      "lng": "-88.6113889",
+      "lat": "35.2375000"
+    }
+  },
+  "Alcoa": {
+    "population": "449",
+    "coords": {
+      "lng": "-83.9775000",
+      "lat": "35.8038889"
+    }
+  },
+  "Lakeland": {
+    "population": "12430",
+    "coords": {
+      "lng": "-89.7402778",
+      "lat": "35.2305556"
+    }
+  },
+  "Belle Meade": {
+    "population": "912",
+    "coords": {
+      "lng": "-86.8550000",
+      "lat": "36.1055556"
+    }
+  },
+  "Sweetwater": {
+    "population": "764",
+    "coords": {
+      "lng": "-84.4669444",
+      "lat": "35.6025000"
+    }
+  },
+  "Ardmore": {
+    "population": "213",
+    "coords": {
+      "lng": "-86.8513889",
+      "lat": "35.0047222"
+    }
+  },
+  "Gilt Edge": {
+    "population": "477",
+    "coords": {
+      "lng": "-89.8305556",
+      "lat": "35.5336111"
+    }
+  },
+  "Grand Junction": {
+    "population": "325",
+    "coords": {
+      "lng": "-89.1902778",
+      "lat": "35.0480556"
+    }
   },
   "Trenton": {
+    "population": "264",
     "coords": {
-      "lng": "35.9736111",
+      "lng": "-88.9416667",
       "lat": "35.9736111"
-    },
-    "population": "264"
+    }
+  },
+  "Clarksburg": {
+    "population": "393",
+    "coords": {
+      "lng": "-88.3950000",
+      "lat": "35.8711111"
+    }
+  },
+  "Ridgeside": {
+    "population": "390",
+    "coords": {
+      "lng": "-85.2480556",
+      "lat": "35.0350000"
+    }
+  },
+  "Altamont": {
+    "population": "045",
+    "coords": {
+      "lng": "-85.7325000",
+      "lat": "35.4338889"
+    }
+  },
+  "Rives": {
+    "population": "326",
+    "coords": {
+      "lng": "-89.0497222",
+      "lat": "36.3572222"
+    }
+  },
+  "Luttrell": {
+    "population": "074",
+    "coords": {
+      "lng": "-83.7458333",
+      "lat": "36.2030556"
+    }
+  },
+  "Hartsville": {
+    "population": "395",
+    "coords": {
+      "lng": "-86.1602778",
+      "lat": "36.3916667"
+    }
+  },
+  "Tracy City": {
+    "population": "481",
+    "coords": {
+      "lng": "-85.7416667",
+      "lat": "35.2608333"
+    }
+  },
+  "Wartburg": {
+    "population": "918",
+    "coords": {
+      "lng": "-84.5919444",
+      "lat": "36.1041667"
+    }
+  },
+  "Chapel Hill": {
+    "population": "445",
+    "coords": {
+      "lng": "-86.6961111",
+      "lat": "35.6280556"
+    }
+  },
+  "Gordonsville": {
+    "population": "213",
+    "coords": {
+      "lng": "-85.9305556",
+      "lat": "36.1772222"
+    }
+  },
+  "Red Bank": {
+    "population": "11651",
+    "coords": {
+      "lng": "-85.2969444",
+      "lat": "35.1102778"
+    }
+  },
+  "Athens": {
+    "population": "13458",
+    "coords": {
+      "lng": "-84.6019444",
+      "lat": "35.4480556"
+    }
+  },
+  "Halls": {
+    "population": "255",
+    "coords": {
+      "lng": "-89.3961111",
+      "lat": "35.8755556"
+    }
+  },
+  "Silerton": {
+    "population": "111",
+    "coords": {
+      "lng": "-88.8019444",
+      "lat": "35.3400000"
+    }
+  },
+  "Mount Carmel": {
+    "population": "429",
+    "coords": {
+      "lng": "-82.6533333",
+      "lat": "36.5655556"
+    }
+  },
+  "Parrottsville": {
+    "population": "263",
+    "coords": {
+      "lng": "-83.0911111",
+      "lat": "36.0094444"
+    }
+  },
+  "Sneedville": {
+    "population": "387",
+    "coords": {
+      "lng": "-83.2141667",
+      "lat": "36.5319444"
+    }
+  },
+  "Maryville": {
+    "population": "27465",
+    "coords": {
+      "lng": "-83.9758333",
+      "lat": "35.7497222"
+    }
+  },
+  "Maynardville": {
+    "population": "413",
+    "coords": {
+      "lng": "-83.8072222",
+      "lat": "36.2458333"
+    }
+  },
+  "Whiteville": {
+    "population": "638",
+    "coords": {
+      "lng": "-89.1458333",
+      "lat": "35.3244444"
+    }
+  },
+  "Powells Crossroads": {
+    "population": "322",
+    "coords": {
+      "lng": "-85.4827778",
+      "lat": "35.1836111"
+    }
+  },
+  "Saltillo": {
+    "population": "303",
+    "coords": {
+      "lng": "-88.2122222",
+      "lat": "35.3805556"
+    }
+  },
+  "Yorkville": {
+    "population": "286",
+    "coords": {
+      "lng": "-89.1188889",
+      "lat": "36.0986111"
+    }
+  },
+  "Bells": {
+    "population": "437",
+    "coords": {
+      "lng": "-89.0852778",
+      "lat": "35.7183333"
+    }
+  },
+  "Thompson's Station": {
+    "population": "194",
+    "coords": {
+      "lng": "-86.9072222",
+      "lat": "35.7986111"
+    }
+  },
+  "Gruetli-Laager": {
+    "population": "813",
+    "coords": {
+      "lng": "-85.6236111",
+      "lat": "35.3730556"
+    }
+  },
+  "Petersburg": {
+    "population": "544",
+    "coords": {
+      "lng": "-86.6375000",
+      "lat": "35.3186111"
+    }
+  },
+  "Newbern": {
+    "population": "313",
+    "coords": {
+      "lng": "-89.2680556",
+      "lat": "36.1163889"
+    }
+  },
+  "Walden": {
+    "population": "898",
+    "coords": {
+      "lng": "-85.3122222",
+      "lat": "35.1611111"
+    }
+  },
+  "Savannah": {
+    "population": "982",
+    "coords": {
+      "lng": "-88.2369444",
+      "lat": "35.2236111"
+    }
+  },
+  "Lynnville": {
+    "population": "287",
+    "coords": {
+      "lng": "-87.0052778",
+      "lat": "35.3772222"
+    }
+  },
+  "Lebanon": {
+    "population": "26190",
+    "coords": {
+      "lng": "-86.3263889",
+      "lat": "36.2080556"
+    }
+  },
+  "Dunlap": {
+    "population": "815",
+    "coords": {
+      "lng": "-85.3883333",
+      "lat": "35.3772222"
+    }
+  },
+  "Lookout Mountain": {
+    "population": "832",
+    "coords": {
+      "lng": "-85.3508333",
+      "lat": "34.9963889"
+    }
+  },
+  "Rutledge": {
+    "population": "122",
+    "coords": {
+      "lng": "-83.5180556",
+      "lat": "36.2800000"
+    }
+  },
+  "Selmer": {
+    "population": "396",
+    "coords": {
+      "lng": "-88.5930556",
+      "lat": "35.1722222"
+    }
+  },
+  "McLemoresville": {
+    "population": "352",
+    "coords": {
+      "lng": "-88.5775000",
+      "lat": "35.9875000"
+    }
+  },
+  "Puryear": {
+    "population": "671",
+    "coords": {
+      "lng": "-88.3338889",
+      "lat": "36.4447222"
+    }
+  },
+  "Sunbright": {
+    "population": "552",
+    "coords": {
+      "lng": "-84.6727778",
+      "lat": "36.2475000"
+    }
+  },
+  "Mountain City": {
+    "population": "531",
+    "coords": {
+      "lng": "-81.8038889",
+      "lat": "36.4683333"
+    }
+  },
+  "Kingston Springs": {
+    "population": "756",
+    "coords": {
+      "lng": "-87.1083333",
+      "lat": "36.0872222"
+    }
+  },
+  "Cornersville": {
+    "population": "194",
+    "coords": {
+      "lng": "-86.8416667",
+      "lat": "35.3580556"
+    }
+  },
+  "Erwin": {
+    "population": "097",
+    "coords": {
+      "lng": "-82.4108333",
+      "lat": "36.1450000"
+    }
+  },
+  "Spring Hill": {
+    "population": "29036",
+    "coords": {
+      "lng": "-86.9138889",
+      "lat": "35.7525000"
+    }
+  },
+  "Slayden": {
+    "population": "178",
+    "coords": {
+      "lng": "-87.4705556",
+      "lat": "36.2941667"
+    }
+  },
+  "Milan": {
+    "population": "851",
+    "coords": {
+      "lng": "-88.7580556",
+      "lat": "35.9158333"
+    }
+  },
+  "Greenbrier": {
+    "population": "433",
+    "coords": {
+      "lng": "-86.8008333",
+      "lat": "36.4280556"
+    }
+  },
+  "Bruceton": {
+    "population": "478",
+    "coords": {
+      "lng": "-88.2450000",
+      "lat": "36.0372222"
+    }
+  },
+  "Bluff City": {
+    "population": "733",
+    "coords": {
+      "lng": "-82.2750000",
+      "lat": "36.4633333"
+    }
+  },
+  "Ducktown": {
+    "population": "475",
+    "coords": {
+      "lng": "-84.3841667",
+      "lat": "35.0341667"
+    }
+  },
+  "Vonore": {
+    "population": "474",
+    "coords": {
+      "lng": "-84.2227778",
+      "lat": "35.5994444"
+    }
+  },
+  "Saulsbury": {
+    "population": "81",
+    "coords": {
+      "lng": "-89.0888889",
+      "lat": "35.0491667"
+    }
+  },
+  "Spring City": {
+    "population": "981",
+    "coords": {
+      "lng": "-84.8638889",
+      "lat": "35.6894444"
+    }
+  },
+  "Cedar Hill": {
+    "population": "314",
+    "coords": {
+      "lng": "-87.0022222",
+      "lat": "36.5519444"
+    }
+  },
+  "Waverly": {
+    "population": "105",
+    "coords": {
+      "lng": "-87.7869444",
+      "lat": "36.0858333"
+    }
+  },
+  "White Pine": {
+    "population": "196",
+    "coords": {
+      "lng": "-83.2919444",
+      "lat": "36.1086111"
+    }
+  },
+  "Oliver Springs": {
+    "population": "231",
+    "coords": {
+      "lng": "-84.3369444",
+      "lat": "36.0380556"
+    }
+  },
+  "Viola": {
+    "population": "131",
+    "coords": {
+      "lng": "-85.8605556",
+      "lat": "35.5380556"
+    }
+  },
+  "Bradford": {
+    "population": "048",
+    "coords": {
+      "lng": "-88.8150000",
+      "lat": "36.0758333"
+    }
+  },
+  "New Market": {
+    "population": "334",
+    "coords": {
+      "lng": "-83.5497222",
+      "lat": "36.1016667"
+    }
+  },
+  "Monteagle": {
+    "population": "192",
+    "coords": {
+      "lng": "-85.8344444",
+      "lat": "35.2400000"
+    }
+  },
+  "Harrogate": {
+    "population": "389",
+    "coords": {
+      "lng": "-83.6569444",
+      "lat": "36.5822222"
+    }
+  },
+  "Middleton": {
+    "population": "706",
+    "coords": {
+      "lng": "-88.8916667",
+      "lat": "35.0588889"
+    }
+  },
+  "Gadsden": {
+    "population": "470",
+    "coords": {
+      "lng": "-88.9905556",
+      "lat": "35.7772222"
+    }
+  },
+  "Normandy": {
+    "population": "141",
+    "coords": {
+      "lng": "-86.2586111",
+      "lat": "35.4522222"
+    }
+  },
+  "Harriman": {
+    "population": "350",
+    "coords": {
+      "lng": "-84.5558333",
+      "lat": "35.9286111"
+    }
+  },
+  "Nashville": {
+    "population": "684410",
+    "coords": {
+      "lng": "-86.7833333",
+      "lat": "36.1666667"
+    }
+  },
+  "Pleasant View": {
+    "population": "149",
+    "coords": {
+      "lng": "-87.0372222",
+      "lat": "36.3902778"
+    }
+  },
+  "Bulls Gap": {
+    "population": "738",
+    "coords": {
+      "lng": "-83.0794444",
+      "lat": "36.2591667"
+    }
+  },
+  "Lakesite": {
+    "population": "826",
+    "coords": {
+      "lng": "-85.1363889",
+      "lat": "35.2058333"
+    }
+  },
+  "Tazewell": {
+    "population": "218",
+    "coords": {
+      "lng": "-83.5711111",
+      "lat": "36.4544444"
+    }
+  },
+  "Collegedale": {
+    "population": "282",
+    "coords": {
+      "lng": "-85.0469444",
+      "lat": "35.0516667"
+    }
+  },
+  "Rocky Top": {
+    "population": "781",
+    "coords": {
+      "lng": "-84.1558333",
+      "lat": "36.2241667"
+    }
+  },
+  "South Carthage": {
+    "population": "322",
+    "coords": {
+      "lng": "-85.9580556",
+      "lat": "36.2455556"
+    }
+  },
+  "Huntsville": {
+    "population": "248",
+    "coords": {
+      "lng": "-84.4950000",
+      "lat": "36.4108333"
+    }
+  },
+  "Henderson": {
+    "population": "309",
+    "coords": {
+      "lng": "-88.6444444",
+      "lat": "35.4430556"
+    }
   }
 }
