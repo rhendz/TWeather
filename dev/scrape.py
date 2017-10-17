@@ -27,16 +27,13 @@ def main():
 
     cityData = {}
     # Heart of scraping
-    # Enumerated so the JSON file is easier to handle
-    for idx, link in enumerate(cityLinks):
+    for link in cityLinks:
         city = requests.get(link)
         citySoup = BeautifulSoup(city.content, "lxml")
 
         cityName = citySoup.find("title").string.split(',')[0]
         print("Finding data for " + cityName[0:10] + "...", end="\t\t")
-        cityDict = {idx: None}
-        # Initiliaze Dict with cityName
-        cityDict[idx] = {'cityName' : cityName}
+        cityDict = {cityName: None}
 
         try:
             # Gets latitude and longitude data
@@ -51,7 +48,7 @@ def main():
 
             latlngDict = {'lat': lat, 'lng': lng}
 
-            cityDict[idx].update({'coords': latlngDict})
+            cityDict[cityName] = {'coords': latlngDict}
 
             # Gets population data
             # Looks for population data in poorly formatted table
@@ -71,7 +68,7 @@ def main():
                     except:
                         pass
 
-            cityDict[idx].update(populationDict)
+            cityDict[cityName].update(populationDict)
             cityData.update(cityDict)
             # Checkmark for Success
             print("\u2713")
@@ -92,7 +89,6 @@ def dms_to_dd(d, m, s, dir):
 # Determines whether a tag is surrounded by strings
 def surrounded_by_strings(tag):
     return (isinstance(tag.next_element, NavigableString) and isinstance(tag.previous_element, NavigableString))
-
 
 if __name__ == '__main__':
     main()
