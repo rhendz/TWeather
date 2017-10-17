@@ -27,13 +27,16 @@ def main():
 
     cityData = {}
     # Heart of scraping
-    for link in cityLinks:
+    # Enumerated so the JSON file is easier to handle
+    for idx, link in enumerate(cityLinks):
         city = requests.get(link)
         citySoup = BeautifulSoup(city.content, "lxml")
 
-        cityKey = citySoup.find("title").string.split(',')[0]
-        print("Finding data for " + cityKey[0:10] + "...", end="\t\t")
-        cityDict = {cityKey: None}
+        cityName = citySoup.find("title").string.split(',')[0]
+        print("Finding data for " + cityName[0:10] + "...", end="\t\t")
+        cityDict = {idx: None}
+        # Initiliaze Dict with cityName
+        cityDict[idx] = {'cityName' : cityName}
 
         try:
             # Gets latitude and longitude data
@@ -47,8 +50,8 @@ def main():
             lng = format(dms_to_dd(*latExp), '.7f')
 
             latlngDict = {'lat': lat, 'lng': lng}
-            # Initializes dict w/ latlngDict
-            cityDict[cityKey] = latlngDict
+
+            cityDict[idx].update({'coords': latlngDict})
 
             # Gets population data
             # Looks for population data in poorly formatted table
@@ -68,7 +71,7 @@ def main():
                     except:
                         pass
 
-            cityDict[cityKey].update(populationDict)
+            cityDict[idx].update(populationDict)
             cityData.update(cityDict)
             # Checkmark for Success
             print("\u2713")
