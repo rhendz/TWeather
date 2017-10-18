@@ -8,7 +8,7 @@ var latlng = {
 };
 var zoom = 8;
 var mapTypeId = 'terrain';
-var API_CALL_LIMIT = 60; // Apparently there is not...
+var API_CALL_LIMIT = 60; // Apparently there is and I got blocked
 var BASE_MAP_ZOOM = 8;
 var BASE_MAP_LOCATIONS = 50;
 var BASE_MAP_MARKER_WEIGHT = 7; // Markers dissapear if zoom < 7
@@ -211,7 +211,7 @@ function addMarker(jsonObj, cityName, weight) {
     markerZoomWeight: weight
   });
 
-  marker.addListener('click', function() {
+  marker.addListener('dblclick', function() {
     map.setCenter(marker.getPosition());
     map.setZoom(11);
   });
